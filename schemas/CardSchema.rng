@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<grammar ns="" xmlns="http://relaxng.org/ns/structure/1.0" datatypeLibrary="http://www.w3.org/2001/XMLSchema-datatypes">
+  <start>
+    <element name="mnemosyne">
+      <attribute name="core_version">
+        <data type="integer"/>
+      </attribute>
+      <optional>
+        <attribute name="time_of_start">
+          <data type="integer"/>
+        </attribute>
+      </optional>
+      <oneOrMore>
+        <element name="category">
+          <attribute name="active">
+            <data type="integer"/>
+          </attribute>
+          <element name="name">
+            <data type="NCName"/>
+          </element>
+        </element>
+      </oneOrMore>
+      <oneOrMore>
+        <element name="item">
+          <optional>
+            <attribute name="ac_rp">
+              <data type="integer"/>
+            </attribute>
+          </optional>
+          <optional>
+            <attribute name="ac_rp_l">
+              <data type="integer"/>
+            </attribute>
+          </optional>
+          <optional>
+            <attribute name="e">
+              <data type="decimal"/>
+            </attribute>
+          </optional>
+          <optional>
+            <attribute name="gr">
+              <data type="integer"/>
+            </attribute>
+          </optional>
+          <optional>
+            <attribute name="id">
+              <data type="NMTOKEN"/>
+            </attribute>
+          </optional>
+          <optional>
+            <attribute name="l_rp">
+              <data type="integer"/>
+            </attribute>
+          </optional>
+          <optional>
+            <attribute name="lps">
+              <data type="integer"/>
+            </attribute>
+          </optional>
+          <optional>
+            <attribute name="n_rp">
+              <data type="integer"/>
+            </attribute>
+          </optional>
+          <optional>
+            <attribute name="rt_rp">
+              <data type="integer"/>
+            </attribute>
+          </optional>
+          <optional>
+            <attribute name="rt_rp_l">
+              <data type="integer"/>
+            </attribute>
+          </optional>
+          <element name="cat">
+            <data type="NCName"/>
+          </element>
+          <element name="Q">
+            <text/>
+          </element>
+          <element name="A">
+            <text/>
+          </element>
+        </element>
+      </oneOrMore>
+    </element>
+  </start>
+</grammar>

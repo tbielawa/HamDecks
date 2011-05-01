@@ -1,0 +1,26 @@
+default namespace = ""
+
+start =
+  element mnemosyne {
+    attribute core_version { xsd:integer },
+    attribute time_of_start { xsd:integer }?,
+    element category {
+      attribute active { xsd:integer },
+      element name { xsd:NCName }
+    }+,
+    element item {
+      attribute ac_rp { xsd:integer }?,
+      attribute ac_rp_l { xsd:integer }?,
+      attribute e { xsd:decimal }?,
+      attribute gr { xsd:integer }?,
+      attribute id { xsd:NMTOKEN }?,
+      attribute l_rp { xsd:integer }?,
+      attribute lps { xsd:integer }?,
+      attribute n_rp { xsd:integer }?,
+      attribute rt_rp { xsd:integer }?,
+      attribute rt_rp_l { xsd:integer }?,
+      element cat { xsd:NCName },
+      element Q { text },
+      element A { text }
+    }+
+  }
