@@ -3,13 +3,18 @@ BEGIN {
 }
 
 {
+    if ($2 ~ "^-$") {
+	# These indicate category's
+	CAT=$1
+	next
+    }
+
     # Why is it so hard to match an actual '(' or ')' character?
     if ($2 ~ "^[(][A-D][)]$") {
 	INQ="yes"
 	# Something like (a) is an answer and indicates a question
 	# header begins here.
 	ANS=substr($2, 2, 1)
-	CAT=$1
 	NS="QLINE" # The next parser state is the question line
 	HEADER=$0
 	sub(" [(]"ANS"[)] ?", " ", HEADER)
