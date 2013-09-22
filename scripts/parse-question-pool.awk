@@ -3,7 +3,7 @@ BEGIN {
 }
 
 {
-    if ($2 ~ "^-$") {
+    if ($0 ~ "^[A-Z][0-9][A-Z] ") {
 	# These indicate category's
 	CAT=$1
 	next

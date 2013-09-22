@@ -73,7 +73,7 @@
     <name>G6C</name>
   </category>
   <category active="1">
-    <name>G7</name>
+    <name>G7A</name>
   </category>
   <category active="1">
     <name>G7B</name>
@@ -3516,7 +3516,7 @@
     <A>B. A small threaded connector suitable for signals up to several GHz</A>
   </item>
   <item>
-    <cat>G7</cat>
+    <cat>G7A</cat>
     <Q>G7A01 
        What safety feature does a power-supply bleeder resistor provide?
        A. It acts as a fuse for excess voltage
@@ -3527,7 +3527,7 @@
     <A>B. It discharges the filter capacitors</A>
   </item>
   <item>
-    <cat>G7</cat>
+    <cat>G7A</cat>
     <Q>G7A02 
        Which of the following components are used in a power-supply filter network?
        A. Diodes
@@ -3538,7 +3538,7 @@
     <A>D. Capacitors and inductors</A>
   </item>
   <item>
-    <cat>G7</cat>
+    <cat>G7A</cat>
     <Q>G7A03 
        What is the peak-inverse-voltage across the rectifiers in a full-wave bridge power supply?
        A. One-quarter the normal output voltage of the power supply
@@ -3549,7 +3549,7 @@
     <A>D. Equal to the normal peak output voltage of the power supply</A>
   </item>
   <item>
-    <cat>G7</cat>
+    <cat>G7A</cat>
     <Q>G7A04 
        What is the peak-inverse-voltage across the rectifier in a half-wave power supply?
        A. One-half the normal peak output voltage of the power supply
@@ -3560,7 +3560,7 @@
     <A>D. Two times the normal peak output voltage of the power supply</A>
   </item>
   <item>
-    <cat>G7</cat>
+    <cat>G7A</cat>
     <Q>G7A05 
        What portion of the AC cycle is converted to DC by a half-wave rectifier?
        A. 90 degrees
@@ -3571,7 +3571,7 @@
     <A>B. 180 degrees</A>
   </item>
   <item>
-    <cat>G7</cat>
+    <cat>G7A</cat>
     <Q>G7A06 
        What portion of the AC cycle is converted to DC by a full-wave rectifier?
        A. 90 degrees
@@ -3582,7 +3582,7 @@
     <A>D. 360 degrees</A>
   </item>
   <item>
-    <cat>G7</cat>
+    <cat>G7A</cat>
     <Q>G7A07 
        What is the output waveform of an unfiltered full-wave rectifier connected to a resistive load?
        A. A series of DC pulses at twice the frequency of the AC input
@@ -3597,7 +3597,7 @@
        C. High frequency operation allows the use of smaller components
        D. All of these choices are correct
   <item>
-    <cat>G7</cat>
+    <cat>G7A</cat>
     <Q>G7A09 
        Which symbol in figure G7-1 represents a field effect transistor?
        A. Symbol 2
@@ -3608,7 +3608,7 @@
     <A>C. Symbol 1</A>
   </item>
   <item>
-    <cat>G7</cat>
+    <cat>G7A</cat>
     <Q>G7A10 
        Which symbol in figure G7-1 represents a Zener diode?
        A. Symbol 4
@@ -3619,7 +3619,7 @@
     <A>D. Symbol 5</A>
   </item>
   <item>
-    <cat>G7</cat>
+    <cat>G7A</cat>
     <Q>G7A11 
        Which symbol in figure G7-1 represents an NPN junction transistor?
        A. Symbol 1
@@ -3630,7 +3630,7 @@
     <A>B. Symbol 2</A>
   </item>
   <item>
-    <cat>G7</cat>
+    <cat>G7A</cat>
     <Q>G7A12 
        Which symbol in Figure G7-1 represents a multiple-winding transformer?
        A. Symbol 4
@@ -3641,7 +3641,7 @@
     <A>C. Symbol 6</A>
   </item>
   <item>
-    <cat>G7</cat>
+    <cat>G7A</cat>
     <Q>G7A13 
        Which symbol in Figure G7-1 represents a tapped inductor?
        A. Symbol 7
