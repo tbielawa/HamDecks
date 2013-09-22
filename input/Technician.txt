@@ -1,3 +1,5 @@
+SUBELEMENT T1 ñ FCC Rules, descriptions and definitions for the amateur radio service, operator and station license responsibilities - [6 Exam Questions - 6 Groups]
+
 T1A - Amateur Radio services; purpose of the amateur service, amateur-satellite service, operator/primary station license grant, where FCC rules are codified, basis and purpose of FCC rules, meanings of basic terms used in FCC rules
 
 T1A01 (D) [97.3(a)(4)]
@@ -289,7 +291,7 @@ T1C10 (C) [97.5a]
 How soon may you operate a transmitter on an amateur service frequency after you pass the examination required for your first amateur radio license?
 A. Immediately
 B. 30 days after the test date
-C. As soon as your name and call sign appear in the FCC‚Äôs ULS database
+C. As soon as your name and call sign appear in the FCCís ULS database
 D. You must wait until you receive your license in the mail from the FCC
 ~~
 
@@ -446,7 +448,7 @@ D. The class of operator license held by the control operator
 
 T1E05 (C) [97.3(a)(14)]
 What is an amateur station control point?
-A. The location of the station‚Äôs transmitting antenna
+A. The location of the stationís transmitting antenna
 B. The location of the station transmitting apparatus 
 C. The location at which the control operator function is performed
 D. The mailing address of the station licensee
@@ -511,7 +513,7 @@ D. The station licensee
 T1F - Station identification and operation standards; special operations for repeaters and auxiliary stations, third party communications, club stations, station security, FCC inspection
 
 T1F01 (A)
-What type of identification is being used when identifying a station on the air as ‚ÄúRace Headquarters‚Äù?
+What type of identification is being used when identifying a station on the air as ìRace Headquartersî?
 A. Tactical call
 B. Self-assigned designator
 C. SSID
@@ -520,7 +522,7 @@ D. Broadcast station
 
 
 T1F02 (C) [97.119 (a)]
-When using tactical identifiers, how often must your station transmit the station‚Äôs FCC-assigned call sign? 
+When using tactical identifiers, how often must your station transmit the stationís FCC-assigned call sign? 
 A. Never, the tactical call is sufficient
 B. Once during every hour
 C. Every ten minutes
@@ -668,9 +670,9 @@ D. Wait for the station to call "CQ" then answer it
 
 T2A05 (C)
 What should you transmit when responding to a call of CQ?
-A. CQ followed by the other station‚Äôs call sign
-B. Your call sign followed by the other station‚Äôs call sign
-C. The other station‚Äôs call sign followed by your call sign
+A. CQ followed by the other stationís call sign
+B. Your call sign followed by the other stationís call sign
+C. The other stationís call sign followed by your call sign
 D. A signal report followed by your call sign
 ~~
 
@@ -729,7 +731,7 @@ D. An amateur must use the minimum transmitter power necessary to carry out the 
 ~~
 
 
-T2B ‚Äì VHF/UHF operating practices; SSB phone, FM repeater, simplex, frequency offsets, splits and shifts, CTCSS, DTMF, tone squelch, carrier squelch, phonetics
+T2B ñ VHF/UHF operating practices; SSB phone, FM repeater, simplex, frequency offsets, splits and shifts, CTCSS, DTMF, tone squelch, carrier squelch, phonetics
 
 T2B01 (C)
 What is the term used to describe an amateur station that is transmitting and receiving on the same frequency?
@@ -786,7 +788,7 @@ D. Asymmetric modulation occurs
 
 
 T2B07 (D)
-What should you do if you receive a report that your station‚Äôs transmissions are causing splatter or interference on nearby frequencies?
+What should you do if you receive a report that your stationís transmissions are causing splatter or interference on nearby frequencies?
 A. Increase transmit power
 B. Change mode of transmission
 C. Report the interference to the equipment manufacturer
@@ -796,7 +798,7 @@ D. Check your transmitter for off-frequency operation or spurious emissions
 
 
 T2B08 (B)
-What is the proper course of action if your station‚Äôs transmission unintentionally interferes with another station?
+What is the proper course of action if your stationís transmission unintentionally interferes with another station?
 A. Rotate your antenna slightly
 B. Properly identify your transmission and move to a different frequency
 C. Increase power
@@ -831,7 +833,7 @@ D. QRZ
 ~~
 
 
-T2C ‚Äì Public service; emergency and non-emergency operations, message traffic handling
+T2C ñ Public service; emergency and non-emergency operations, message traffic handling
 
 T2C01 (C) [97.103(a)]
 What set of rules applies to proper operation of your station when using amateur radio at the request of public service officials?
@@ -839,6 +841,24 @@ A. RACES Rules
 B. ARES Rules
 C. FCC Rules
 D. FEMA Rules
+~~
+
+
+Deleted T2C02 (D) [97.113 and FCC Public Notice DA 09-2259]
+Who must submit the request for a temporary waiver of Part 97.113 to allow amateur radio operators to provide communications on behalf of their employers during a government sponsored disaster drill?
+A. Each amateur participating in the drill
+B. Any employer participating in the drill
+C. The local American Red Cross Chapter
+D. The government agency sponsoring the event
+~~
+
+
+Deleted T2C03 (C) [97.113]
+When is it legal for an amateur licensee to provide communications on behalf of their employer during a government sponsored disaster drill or exercise?
+A. Whenever the employer is a not-for-profit organization
+B. Whenever there is a temporary need for the employerís business continuity plan
+C. Only when the FCC has granted a government-requested waiver
+D. Only when the amateur is not receiving compensation from his employer for the activity
 ~~
 
 
@@ -864,7 +884,7 @@ T2C06 (C)
 Which of the following is common practice during net operations to get the immediate attention of the net control station when reporting an emergency?
 A. Repeat the words SOS three times followed by the call sign of the reporting station
 B. Press the push-to-talk button three times
-C. Begin your transmission with ‚ÄúPriority‚Äù or ‚ÄúEmergency‚Äù followed by your call sign
+C. Begin your transmission with ìPriorityî or ìEmergencyî followed by your call sign
 D. Play a pre-recorded emergency alert tone followed by your call sign
 ~~
 
@@ -915,12 +935,12 @@ D. The check is a box on the message form that tells you the message was receive
 ~~
 
 
-SUBELEMENT T3 ‚Äì Radio wave characteristics, radio and electromagnetic properties, propagation modes ‚Äì [3 Exam Questions - 3 Groups]
+SUBELEMENT T3 ñ Radio wave characteristics, radio and electromagnetic properties, propagation modes ñ [3 Exam Questions - 3 Groups]
 
 T3A - Radio wave characteristics; how a radio signal travels; distinctions of HF, VHF and UHF; fading, multipath; wavelength vs. penetration; antenna orientation
 
 T3A01 (D)
-What should you do if another operator reports that your station‚Äôs 2 meter signals were strong just a moment ago, but now they are weak or distorted?
+What should you do if another operator reports that your stationís 2 meter signals were strong just a moment ago, but now they are weak or distorted?
 A. Change the batteries in your radio to a different type
 B. Turn on the CTCSS tone
 C. Ask the other operator to adjust his squelch control
@@ -1225,9 +1245,9 @@ D. Radio waves are blocked by dust particles
 ~~
 
 
-SUBELEMENT T4 - Amateur radio practices and station set up ‚Äì [2 Exam Questions - 2 Groups]
+SUBELEMENT T4 - Amateur radio practices and station set up ñ [2 Exam Questions - 2 Groups]
 
-T4A ‚Äì Station setup; microphone, speaker, headphones, filters, power source, connecting a computer, RF grounding
+T4A ñ Station setup; microphone, speaker, headphones, filters, power source, connecting a computer, RF grounding
 
 T4A01 (B)
 Which of the following is true concerning the microphone connectors on amateur transceivers?
@@ -1285,7 +1305,7 @@ D. Antenna
 
 
 T4A07 (C)
-How is the computer‚Äôs sound card used when conducting digital communications using a computer?
+How is the computerís sound card used when conducting digital communications using a computer?
 A. The sound card communicates between the computer CPU and the video display
 B. The sound card records the audio frequency for video display
 C. The sound card provides audio to the microphone input and converts received audio to digital form
@@ -1313,7 +1333,7 @@ D. Ferrite choke
 
 
 T4A10 (B)
-What is the source of a high-pitched whine that varies with engine speed in a mobile transceiver‚Äôs receive audio?
+What is the source of a high-pitched whine that varies with engine speed in a mobile transceiverís receive audio?
 A. The ignition system
 B. The alternator
 C. The electric fuel pump
@@ -1322,11 +1342,11 @@ D. Anti-lock braking system controllers
 
 
 T4A11 (A)
-Where should a mobile transceiver‚Äôs power negative connection be made?
+Where should a mobile transceiverís power negative connection be made?
 A. At the battery or engine block ground strap
 B. At the antenna mount
 C. To any metal part of the vehicle
-D. Through the transceiver‚Äôs mounting bracket
+D. Through the transceiverís mounting bracket
 ~~
 
 
@@ -1425,15 +1445,15 @@ D. 5000 Hz
 
 
 T4B11 (C)
-Which of the following describes the common meaning of the term ‚Äúrepeater offset‚Äù?
-A. The distance between the repeater‚Äôs transmit and receive antennas
+Which of the following describes the common meaning of the term ìrepeater offsetî?
+A. The distance between the repeaterís transmit and receive antennas
 B. The time delay before the repeater timer resets
-C. The difference between the repeater‚Äôs transmit and receive frequencies
-D. The maximum frequency deviation permitted on the repeater‚Äôs input signal
+C. The difference between the repeaterís transmit and receive frequencies
+D. The maximum frequency deviation permitted on the repeaterís input signal
 ~~
 
 
-SUBELEMENT T5 ‚Äì Electrical principles, math for electronics, electronic principles, Ohm‚Äôs Law ‚Äì [4 Exam Questions - 4 Groups]
+SUBELEMENT T5 ñ Electrical principles, math for electronics, electronic principles, Ohmís Law ñ [4 Exam Questions - 4 Groups]
 
 T5A - Electrical principles; current and voltage, conductors and insulators, alternating and direct current
 
@@ -1452,7 +1472,7 @@ A. Volts
 B. Watts
 C. Ohms
 D. Amperes
-~~
+
 
 T5A03 (D)
 What is the name for the flow of electrons in an electric circuit?
@@ -1469,7 +1489,7 @@ A. Alternating current
 B. Direct current
 C. Normal current
 D. Smooth current
-~~
+~
 
 
 T5A05 (A)
@@ -1741,7 +1761,7 @@ D. 132 amperes
 ~~
 
 
-T5D ‚Äì Ohm‚Äôs Law
+T5D ñ Ohmís Law
 
 T5D01 (B)
 What formula is used to calculate current in a circuit?
@@ -1853,7 +1873,7 @@ D. 20 volts
 ~~
 
 
-SUBELEMENT T6 ‚Äì Electrical components, semiconductors, circuit diagrams, component functions ‚Äì [4 Exam Questions - 4 Groups]
+SUBELEMENT T6 ñ Electrical components, semiconductors, circuit diagrams, component functions ñ [4 Exam Questions - 4 Groups]
 
 T6A - Electrical components; fixed and variable resistors, capacitors, and inductors; fuses, switches, batteries
 
@@ -1957,7 +1977,7 @@ D. Lithium-ion
 ~~
 
 
-T6B ‚Äì Semiconductors; basic principles of diodes and transistors
+T6B ñ Semiconductors; basic principles of diodes and transistors
 
 T6B01 (D)
 What class of electronic components is capable of using a voltage or current signal to control current flow?
@@ -2006,7 +2026,7 @@ D. Multi-cell battery
 
 
 T6B06 (B)
-How is a semiconductor diode‚Äôs cathode lead usually identified?
+How is a semiconductor diodeís cathode lead usually identified?
 A. With the word "cathode"
 B. With a stripe
 C. With the letter "C"
@@ -2186,7 +2206,7 @@ A. Wire lengths
 B. Physical appearance of components
 C. The way components are interconnected
 D. All of these choices are correct
-~~
+
 
 T6D - Component functions
 
@@ -2291,7 +2311,7 @@ D. Connect data signals from a TNC to a computer
 ~~
 
 
-SUBELEMENT T7 ‚Äì Station equipment; common transmitter and receiver problems, antenna measurements and troubleshooting, basic repair and testing ‚Äì [4 Exam Questions - 4 Groups]
+SUBELEMENT T7 ñ Station equipment; common transmitter and receiver problems, antenna measurements and troubleshooting, basic repair and testing ñ [4 Exam Questions - 4 Groups]
 
 T7A - Station radios; receivers, transmitters, transceivers
 
@@ -2413,7 +2433,7 @@ D. At the receiver's audio output
 ~~
 
 
-T7B ‚Äì Common transmitter and receiver problems; symptoms of overload and overdrive, distortion, interference, over and under modulation, RF feedback, off frequency signals; fading and noise; problems with digital communications interfaces
+T7B ñ Common transmitter and receiver problems; symptoms of overload and overdrive, distortion, interference, over and under modulation, RF feedback, off frequency signals; fading and noise; problems with digital communications interfaces
 
 T7B01 (D)
 What can you do if you are told your FM handheld or mobile transceiver is over deviating?
@@ -2462,7 +2482,7 @@ D. Improve station grounding
 
 
 T7B06 (A)
-What should you do first if someone tells you that your station‚Äôs transmissions are interfering with their radio or TV reception?
+What should you do first if someone tells you that your stationís transmissions are interfering with their radio or TV reception?
 A. Make sure that your station is functioning properly and that it does not cause interference to your own television
 B. Immediately turn off your transmitter and contact the nearest FCC office for assistance
 C. Tell them that your license gives you the right to transmit and nothing can be done to reduce the interference
@@ -2481,7 +2501,7 @@ D. All of these choices are correct
 
 
 T7B08 (D)
-What should you do if a "Part 15" device in your neighbor‚Äôs home is causing harmful interference to your amateur station?
+What should you do if a "Part 15" device in your neighborís home is causing harmful interference to your amateur station?
 A. Work with your neighbor to identify the offending device
 B. Politely inform your neighbor about the rules that require him to stop using the device if it causes interference
 C. Check your station and make sure it meets the standards of good amateur practice
@@ -2494,7 +2514,7 @@ What could be happening if another operator reports a variable high-pitched whin
 A. Your microphone is picking up noise from an open window
 B. You have the volume on your receiver set too high
 C. You need to adjust your squelch control
-D. Noise on the vehicle‚Äôs electrical system is being transmitted along with your speech audio
+D. Noise on the vehicleís electrical system is being transmitted along with your speech audio
 ~~
 
 
@@ -2525,7 +2545,7 @@ D. Bit Exponent Resource
 ~~
 
 
-T7C ‚Äì Antenna measurements and troubleshooting; measuring SWR, dummy loads, feedline failure modes
+T7C ñ Antenna measurements and troubleshooting; measuring SWR, dummy loads, feedline failure modes
 
 T7C01 (A)
 What is the primary purpose of a dummy load?
@@ -2550,7 +2570,7 @@ What, in general terms, is standing wave ratio (SWR)?
 A. A measure of how well a load is matched to a transmission line
 B. The ratio of high to low impedance in a feedline
 C. The transmitter efficiency ratio
-D. An indication of the quality of your station‚Äôs ground connection
+D. An indication of the quality of your stationís ground connection
 ~~
 
 
@@ -2612,7 +2632,7 @@ D. Overloading
 T7C10 (D)
 Why should the outer jacket of coaxial cable be resistant to ultraviolet light?
 A. Ultraviolet resistant jackets prevent harmonic radiation
-B. Ultraviolet light can increase losses in the cable‚Äôs jacket
+B. Ultraviolet light can increase losses in the cableís jacket
 C. Ultraviolet and RF signals can mix together, causing interference
 D. Ultraviolet light can damage the jacket and allow water to enter the cable
 ~~
@@ -2627,7 +2647,7 @@ D. It cannot be used at below freezing temperatures
 ~~
 
 
-T7D ‚Äì Basic repair and testing; soldering, use of a voltmeter, ammeter, and ohmmeter
+T7D ñ Basic repair and testing; soldering, use of a voltmeter, ammeter, and ohmmeter
 
 T7D01 (B)
 Which instrument would you use to measure electric potential or electromotive force?
@@ -2729,9 +2749,9 @@ D. Ensure that the circuit is operating at the correct frequency
 ~~
 
 
-SUBELEMENT T8 ‚Äì Modulation modes; amateur satellite operation, operating activities, non-voice communications ‚Äì [4 Exam Questions - 4 Groups]
+SUBELEMENT T8 ñ Modulation modes; amateur satellite operation, operating activities, non-voice communications ñ [4 Exam Questions - 4 Groups]
 
-T8A ‚Äì Modulation modes; bandwidth of various signals
+T8A ñ Modulation modes; bandwidth of various signals
 
 T8A01 (C)
 Which of the following is a form of amplitude modulation?
@@ -2936,7 +2956,7 @@ D. WSJT
 ~~
 
 
-T8C ‚Äì Operating activities; radio direction finding, radio control, contests, special event stations, basic linking over Internet
+T8C ñ Operating activities; radio direction finding, radio control, contests, special event stations, basic linking over Internet
 
 T8C01 (C)
 Which of the following methods is used to locate sources of noise interference or jamming?
@@ -3005,7 +3025,7 @@ T8C08 (C) [97.215(a)]
 What is required in place of on-air station identification when sending signals to a radio control model using amateur frequencies?
 A. Voice identification must be transmitted every 10 minutes
 B. Morse code ID must be sent once per hour
-C. A label indicating the licensee‚Äôs name, call sign and address must be affixed to the transmitter
+C. A label indicating the licenseeís name, call sign and address must be affixed to the transmitter
 D. A flag must be affixed to the transmitter antenna with the station call sign in 1 inch high letters or larger
 ~~
 
@@ -3037,7 +3057,7 @@ D. A beacon
 ~~
 
 
-T8D ‚Äì Non-voice communications; image data, digital modes, CW, packet, PSK31
+T8D ñ Non-voice communications; image data, digital modes, CW, packet, PSK31
 
 T8D01 (D)
 Which of the following is an example of a digital communications method?
@@ -3139,9 +3159,9 @@ D. A "triple width" bit used to signal the end of a character
 ~~ 
 
 
-SUBELEMENT T9 ‚Äì Antennas, feedlines - [2 Exam Questions - 2 Groups]
+SUBELEMENT T9 ñ Antennas, feedlines - [2 Exam Questions - 2 Groups]
 
-T9A ‚Äì Antennas; vertical and horizontal, concept of gain, common portable and mobile antennas, relationships between antenna length and frequency
+T9A ñ Antennas; vertical and horizontal, concept of gain, common portable and mobile antennas, relationships between antenna length and frequency
 
 T9A01 (C)
 What is a beam antenna?
@@ -3347,9 +3367,9 @@ D. 75-ohm flexible coax
 ~~
 
 
-SUBELEMENT T0 ‚Äì AC power circuits, antenna installation, RF hazards ‚Äì [3 Exam Questions - 3 Groups]
+SUBELEMENT T0 ñ AC power circuits, antenna installation, RF hazards ñ [3 Exam Questions - 3 Groups]
 
-T0A ‚Äì AC power circuits; hazardous voltages, fuses and circuit breakers, grounding, lightning protection, battery safety, electrical code compliance
+T0A ñ AC power circuits; hazardous voltages, fuses and circuit breakers, grounding, lightning protection, battery safety, electrical code compliance
 
 T0A01 (B)
 Which is a commonly accepted value for the lowest voltage that can cause a dangerous electric shock?
@@ -3437,7 +3457,7 @@ T0A10 (A)
 What can happen if a lead-acid storage battery is charged or discharged too quickly?
 A. The battery could overheat and give off flammable gas or explode
 B. The voltage can become reversed
-C. The ‚Äúmemory effect‚Äù will reduce the capacity of the battery
+C. The ìmemory effectî will reduce the capacity of the battery
 D. All of these choices are correct
 ~~ 
 
@@ -3469,7 +3489,7 @@ D. A capacitor across the AC power source
 ~~
 
 
-T0B ‚Äì Antenna installation; tower safety, overhead power lines
+T0B ñ Antenna installation; tower safety, overhead power lines
 
 T0B01 (C)
 When should members of a tower work team wear a hard hat and safety glasses?
@@ -3672,3 +3692,63 @@ B. The difference between PEP and average power of an SSB signal
 C. The ratio of on-air time to total operating time of a transmitted signal
 D. The amount of time the operator spends transmitting
 ~~
+
+
+[End of Technician Class pool. Graphics included below.]
+
+Graphics for 2010 Technician exam - Element 2 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+~~ End of document
+
+
+
+75
+
+
+

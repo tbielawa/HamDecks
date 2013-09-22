@@ -3,7 +3,7 @@ BEGIN {
 }
 
 {
-    if ($2 ~ "^-$") {
+    if ($0 ~ "^[A-Z][0-9][A-Z] ") {
 	# These indicate category's
 	CAT=$1
 	next
@@ -24,13 +24,24 @@ BEGIN {
 	next
     }
 
+    # Handle deleted questions, so we don't have to remove them as
+    #   a preprocessing step.
+    if ($1 ~ "Deleted") {
+	INQ="yes"
+	DELETED="yes"
+	NS="QLINE"
+	next
+    }
+
     if (NS ~ "QLINE") {
 	# The last line evaluated was a question header which means
 	# this state is the question.
 	NS="" # Unset next state so we're not evaulated again
-	print "       " $0
+	if (DELETED !~ "yes") {
+	    print "       " $0
+	}
 	next
-    }	
+    }
 
     if ($1 ~ "^[A-D]\.$") {
 	# Possible answer
@@ -38,7 +49,9 @@ BEGIN {
 	    # The actual answer
 	    ANSTEXT=$0
 	}
-	print "       " $0
+	if (DELETED !~ "yes") {
+	    print "       " $0
+	}
 	next
     }
 
@@ -47,9 +60,13 @@ BEGIN {
 	    # We only want to print this stuff once
 	    INQ="no"
 	    # We have reached the end of a question
-	    print "    </Q>"
-	    print "    <A>" ANSTEXT "</A>"
-	    print "  </item>"
+	    if (DELETED !~ "yes") {
+		print "    </Q>"
+		print "    <A>" ANSTEXT "</A>"
+		print "  </item>"
+	    }
+            # Reset for the next go-round.
+            DELETED="no"
 	    next
 	}
     }
