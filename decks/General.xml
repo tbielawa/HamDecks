@@ -2398,7 +2398,7 @@
   <item>
     <cat>G4D</cat>
     <Q>G4D10 
-       How close to the lower edge of the 40 meter General Class phone segment should your displayed carrier frequency be when using 3 kHz wide LSB?
+       How close to the lower edge of the 40 meter General Class phone segment should your displayed carrier frequency be when using 3 kHz wide LSB?
        A. 3 kHz above the edge of the segment
        B. 3 kHz below the edge of the segment
        C. Your displayed carrier frequency may be set at the edge of the segment
@@ -2409,7 +2409,7 @@
   <item>
     <cat>G4D</cat>
     <Q>G4D11 
-       How close to the upper edge of the 20 meter General Class band should your displayed carrier frequency be when using 3 kHz wide USB? 
+       How close to the upper edge of the 20 meter General Class band should your displayed carrier frequency be when using 3 kHz wide USB? 
        A. 3 kHz above the edge of the band
        B. 3 kHz below the edge of the band
        C. Your displayed carrier frequency may be set at the edge of the band
