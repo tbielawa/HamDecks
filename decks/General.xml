@@ -40,6 +40,9 @@
     <name>G3C</name>
   </category>
   <category active="1">
+    <name>G4A</name>
+  </category>
+  <category active="1">
     <name>G4B</name>
   </category>
   <category active="1">
@@ -58,6 +61,9 @@
     <name>G5B</name>
   </category>
   <category active="1">
+    <name>G5C</name>
+  </category>
+  <category active="1">
     <name>G6A</name>
   </category>
   <category active="1">
@@ -65,6 +71,9 @@
   </category>
   <category active="1">
     <name>G6C</name>
+  </category>
+  <category active="1">
+    <name>G7</name>
   </category>
   <category active="1">
     <name>G7B</name>
@@ -1310,12 +1319,12 @@
     <cat>G2E</cat>
     <Q>G2E08 
        What segment of the 80 meter band is most commonly used for data transmissions?
-       A. 3570 – 3600 kHz
-       B. 3500 – 3525 kHz
-       C. 3700 – 3750 kHz
-       D. 3775 – 3825 kHz
+       A. 3570 - 3600 kHz
+       B. 3500 - 3525 kHz
+       C. 3700 - 3750 kHz
+       D. 3775 - 3825 kHz
     </Q>
-    <A>A. 3570 – 3600 kHz</A>
+    <A>A. 3570 - 3600 kHz</A>
   </item>
   <item>
     <cat>G2E</cat>
@@ -1824,7 +1833,7 @@
     <A>B. Short distance HF propagation using high elevation angles</A>
   </item>
   <item>
-    <cat>G3C</cat>
+    <cat>G4A</cat>
     <Q>G4A01 
        What is the purpose of the "notch filter" found on many HF transceivers?
        A. To restrict the transmitter voice bandwidth
@@ -1835,7 +1844,7 @@
     <A>B. To reduce interference from carriers in the receiver passband</A>
   </item>
   <item>
-    <cat>G3C</cat>
+    <cat>G4A</cat>
     <Q>G4A02 
        What is one advantage of selecting the opposite or "reverse" sideband when receiving CW signals on a typical HF transceiver?
        A. Interference from impulse noise will be eliminated
@@ -1846,7 +1855,7 @@
     <A>C. It may be possible to reduce or eliminate interference from other signals</A>
   </item>
   <item>
-    <cat>G3C</cat>
+    <cat>G4A</cat>
     <Q>G4A03 
        What is normally meant by operating a transceiver in "split" mode?
        A. The radio is operating at half power
@@ -1857,7 +1866,7 @@
     <A>C. The transceiver is set to different transmit and receive frequencies</A>
   </item>
   <item>
-    <cat>G3C</cat>
+    <cat>G4A</cat>
     <Q>G4A04 
        What reading on the plate current meter of a vacuum tube RF power amplifier indicates correct adjustment of the plate tuning control?
        A. A pronounced peak
@@ -1868,7 +1877,7 @@
     <A>B. A pronounced dip</A>
   </item>
   <item>
-    <cat>G3C</cat>
+    <cat>G4A</cat>
     <Q>G4A05 
        What is a purpose of using Automatic Level Control (ALC) with a RF power amplifier?
        A. To balance the transmitter audio frequency response
@@ -1879,7 +1888,7 @@
     <A>C. To reduce distortion due to excessive drive</A>
   </item>
   <item>
-    <cat>G3C</cat>
+    <cat>G4A</cat>
     <Q>G4A06 
        What type of device is often used to enable matching the transmitter output to an impedance other than 50 ohms?
        A. Balanced modulator
@@ -1890,7 +1899,7 @@
     <A>C. Antenna coupler</A>
   </item>
   <item>
-    <cat>G3C</cat>
+    <cat>G4A</cat>
     <Q>G4A07 
        What condition can lead to permanent damage when using a solid-state RF power amplifier?
        A. Exceeding the Maximum Usable Frequency
@@ -1901,7 +1910,7 @@
     <A>D. Excessive drive power</A>
   </item>
   <item>
-    <cat>G3C</cat>
+    <cat>G4A</cat>
     <Q>G4A08 
        What is the correct adjustment for the load or coupling control of a vacuum tube RF power amplifier?
        A. Minimum SWR on the antenna
@@ -1912,7 +1921,7 @@
     <A>D. Maximum power output without exceeding maximum allowable plate current</A>
   </item>
   <item>
-    <cat>G3C</cat>
+    <cat>G4A</cat>
     <Q>G4A09 
        Why is a time delay sometimes included in a transmitter keying circuit?
        A. To prevent stations from talking over each other
@@ -1923,7 +1932,7 @@
     <A>C. To allow time for transmit-receive changeover operations to complete properly before RF output is allowed</A>
   </item>
   <item>
-    <cat>G3C</cat>
+    <cat>G4A</cat>
     <Q>G4A10 
        What is the purpose of an electronic keyer?
        A. Automatic transmit/receive switching
@@ -1934,7 +1943,7 @@
     <A>B. Automatic generation of strings of dots and dashes for CW operation </A>
   </item>
   <item>
-    <cat>G3C</cat>
+    <cat>G4A</cat>
     <Q>G4A11 
        Which of the following is a use for the IF shift control on a receiver?
        A. To avoid interference from stations very close to the receive frequency
@@ -1945,7 +1954,7 @@
     <A>A. To avoid interference from stations very close to the receive frequency</A>
   </item>
   <item>
-    <cat>G3C</cat>
+    <cat>G4A</cat>
     <Q>G4A12 
        Which of the following is a common use for the dual VFO feature on a transceiver? 
        A. To allow transmitting on two frequencies at once
@@ -1956,7 +1965,7 @@
     <A>C. To permit ease of monitoring the transmit and receive frequencies when they are not the same</A>
   </item>
   <item>
-    <cat>G3C</cat>
+    <cat>G4A</cat>
     <Q>G4A13 
        What is one reason to use the attenuator function that is present on many HF transceivers?
        A. To reduce signal overload due to strong incoming signals
@@ -1967,7 +1976,7 @@
     <A>A. To reduce signal overload due to strong incoming signals</A>
   </item>
   <item>
-    <cat>G3C</cat>
+    <cat>G4A</cat>
     <Q>G4A14 
        How should the transceiver audio input be adjusted when transmitting PSK31 data signals?
        A. So that the transceiver is at maximum rated output power
@@ -2836,7 +2845,7 @@
     <A>B. 625 watts</A>
   </item>
   <item>
-    <cat>G5B</cat>
+    <cat>G5C</cat>
     <Q>G5C01 
        What causes a voltage to appear across the secondary winding of a transformer when an AC voltage source is connected across its primary winding?
        A. Capacitive coupling
@@ -2847,7 +2856,7 @@
     <A>C. Mutual inductance</A>
   </item>
   <item>
-    <cat>G5B</cat>
+    <cat>G5C</cat>
     <Q>G5C02 
        Which part of a transformer is normally connected to the incoming source of energy? 
        A. The secondary 
@@ -2858,7 +2867,7 @@
     <A>B. The primary </A>
   </item>
   <item>
-    <cat>G5B</cat>
+    <cat>G5C</cat>
     <Q>G5C03 
        Which of the following components should be added to an existing resistor to increase the resistance?
        A. A resistor in parallel
@@ -2869,7 +2878,7 @@
     <A>B. A resistor in series</A>
   </item>
   <item>
-    <cat>G5B</cat>
+    <cat>G5C</cat>
     <Q>G5C04 
        What is the total resistance of three 100-ohm resistors in parallel?
        A. .30 ohms
@@ -2880,7 +2889,7 @@
     <A>C. 33.3 ohms</A>
   </item>
   <item>
-    <cat>G5B</cat>
+    <cat>G5C</cat>
     <Q>G5C05 
        If three equal value resistors in parallel produce 50 ohms of resistance, and the same three resistors in series produce 450 ohms, what is the value of each resistor?
        A. 1500 ohms
@@ -2891,7 +2900,7 @@
     <A>C. 150 ohms</A>
   </item>
   <item>
-    <cat>G5B</cat>
+    <cat>G5C</cat>
     <Q>G5C06 
        What is the RMS voltage across a 500-turn secondary winding in a transformer if the 2250-turn primary is connected to 120 VAC?
        A. 2370 volts
@@ -2902,7 +2911,7 @@
     <A>C. 26.7 volts</A>
   </item>
   <item>
-    <cat>G5B</cat>
+    <cat>G5C</cat>
     <Q>G5C07 
        What is the turns ratio of a transformer used to match an audio amplifier having a 600-ohm output impedance to a speaker having a 4-ohm impedance?
        A. 12.2 to 1
@@ -2913,7 +2922,7 @@
     <A>A. 12.2 to 1</A>
   </item>
   <item>
-    <cat>G5B</cat>
+    <cat>G5C</cat>
     <Q>G5C08 
        What is the equivalent capacitance of two 5000 picofarad capacitors and one 750 picofarad capacitor connected in parallel?
        A. 576.9 picofarads
@@ -2924,7 +2933,7 @@
     <A>D. 10750 picofarads</A>
   </item>
   <item>
-    <cat>G5B</cat>
+    <cat>G5C</cat>
     <Q>G5C09 
        What is the capacitance of three 100 microfarad capacitors connected in series?
        A. .30 microfarads
@@ -2935,7 +2944,7 @@
     <A>C. 33.3 microfarads</A>
   </item>
   <item>
-    <cat>G5B</cat>
+    <cat>G5C</cat>
     <Q>G5C10 
        What is the inductance of three 10 millihenry inductors connected in parallel?
        A. .30 Henrys
@@ -2946,7 +2955,7 @@
     <A>C. 3.3 millihenrys</A>
   </item>
   <item>
-    <cat>G5B</cat>
+    <cat>G5C</cat>
     <Q>G5C11 
        What is the inductance of a 20 millihenry inductor in series with a 50 millihenry inductor?
        A. .07 millihenrys
@@ -2957,7 +2966,7 @@
     <A>C. 70 millihenrys</A>
   </item>
   <item>
-    <cat>G5B</cat>
+    <cat>G5C</cat>
     <Q>G5C12 
        What is the capacitance of a 20 microfarad capacitor in series with a 50 microfarad capacitor?
        A. .07 microfarads
@@ -2968,7 +2977,7 @@
     <A>B. 14.3 microfarads</A>
   </item>
   <item>
-    <cat>G5B</cat>
+    <cat>G5C</cat>
     <Q>G5C13 
        Which of the following components should be added to a capacitor to increase the capacitance?
        A. An inductor in series 
@@ -2979,7 +2988,7 @@
     <A>C. A capacitor in parallel</A>
   </item>
   <item>
-    <cat>G5B</cat>
+    <cat>G5C</cat>
     <Q>G5C14 
        Which of the following components should be added to an inductor to increase the inductance?
        A. A capacitor in series
@@ -2990,7 +2999,7 @@
     <A>D. An inductor in series</A>
   </item>
   <item>
-    <cat>G5B</cat>
+    <cat>G5C</cat>
     <Q>G5C15 
        What is the total resistance of a 10 ohm, a 20 ohm, and a 50 ohm resistor in parallel?
        A. 5.9 ohms
@@ -3507,7 +3516,7 @@
     <A>B. A small threaded connector suitable for signals up to several GHz</A>
   </item>
   <item>
-    <cat>G6C</cat>
+    <cat>G7</cat>
     <Q>G7A01 
        What safety feature does a power-supply bleeder resistor provide?
        A. It acts as a fuse for excess voltage
@@ -3518,7 +3527,7 @@
     <A>B. It discharges the filter capacitors</A>
   </item>
   <item>
-    <cat>G6C</cat>
+    <cat>G7</cat>
     <Q>G7A02 
        Which of the following components are used in a power-supply filter network?
        A. Diodes
@@ -3529,7 +3538,7 @@
     <A>D. Capacitors and inductors</A>
   </item>
   <item>
-    <cat>G6C</cat>
+    <cat>G7</cat>
     <Q>G7A03 
        What is the peak-inverse-voltage across the rectifiers in a full-wave bridge power supply?
        A. One-quarter the normal output voltage of the power supply
@@ -3540,7 +3549,7 @@
     <A>D. Equal to the normal peak output voltage of the power supply</A>
   </item>
   <item>
-    <cat>G6C</cat>
+    <cat>G7</cat>
     <Q>G7A04 
        What is the peak-inverse-voltage across the rectifier in a half-wave power supply?
        A. One-half the normal peak output voltage of the power supply
@@ -3551,7 +3560,7 @@
     <A>D. Two times the normal peak output voltage of the power supply</A>
   </item>
   <item>
-    <cat>G6C</cat>
+    <cat>G7</cat>
     <Q>G7A05 
        What portion of the AC cycle is converted to DC by a half-wave rectifier?
        A. 90 degrees
@@ -3562,7 +3571,7 @@
     <A>B. 180 degrees</A>
   </item>
   <item>
-    <cat>G6C</cat>
+    <cat>G7</cat>
     <Q>G7A06 
        What portion of the AC cycle is converted to DC by a full-wave rectifier?
        A. 90 degrees
@@ -3573,7 +3582,7 @@
     <A>D. 360 degrees</A>
   </item>
   <item>
-    <cat>G6C</cat>
+    <cat>G7</cat>
     <Q>G7A07 
        What is the output waveform of an unfiltered full-wave rectifier connected to a resistive load?
        A. A series of DC pulses at twice the frequency of the AC input
@@ -3588,7 +3597,7 @@
        C. High frequency operation allows the use of smaller components
        D. All of these choices are correct
   <item>
-    <cat>G6C</cat>
+    <cat>G7</cat>
     <Q>G7A09 
        Which symbol in figure G7-1 represents a field effect transistor?
        A. Symbol 2
@@ -3599,7 +3608,7 @@
     <A>C. Symbol 1</A>
   </item>
   <item>
-    <cat>G6C</cat>
+    <cat>G7</cat>
     <Q>G7A10 
        Which symbol in figure G7-1 represents a Zener diode?
        A. Symbol 4
@@ -3610,7 +3619,7 @@
     <A>D. Symbol 5</A>
   </item>
   <item>
-    <cat>G6C</cat>
+    <cat>G7</cat>
     <Q>G7A11 
        Which symbol in figure G7-1 represents an NPN junction transistor?
        A. Symbol 1
@@ -3621,7 +3630,7 @@
     <A>B. Symbol 2</A>
   </item>
   <item>
-    <cat>G6C</cat>
+    <cat>G7</cat>
     <Q>G7A12 
        Which symbol in Figure G7-1 represents a multiple-winding transformer?
        A. Symbol 4
@@ -3632,7 +3641,7 @@
     <A>C. Symbol 6</A>
   </item>
   <item>
-    <cat>G6C</cat>
+    <cat>G7</cat>
     <Q>G7A13 
        Which symbol in Figure G7-1 represents a tapped inductor?
        A. Symbol 7

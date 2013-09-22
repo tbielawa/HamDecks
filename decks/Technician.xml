@@ -22,6 +22,12 @@
     <name>T2A</name>
   </category>
   <category active="1">
+    <name>T2B</name>
+  </category>
+  <category active="1">
+    <name>T2C</name>
+  </category>
+  <category active="1">
     <name>T3A</name>
   </category>
   <category active="1">
@@ -29,6 +35,9 @@
   </category>
   <category active="1">
     <name>T3C</name>
+  </category>
+  <category active="1">
+    <name>T4A</name>
   </category>
   <category active="1">
     <name>T4B</name>
@@ -43,7 +52,13 @@
     <name>T5C</name>
   </category>
   <category active="1">
+    <name>T5D</name>
+  </category>
+  <category active="1">
     <name>T6A</name>
+  </category>
+  <category active="1">
+    <name>T6B</name>
   </category>
   <category active="1">
     <name>T6C</name>
@@ -55,10 +70,37 @@
     <name>T7A</name>
   </category>
   <category active="1">
+    <name>T7B</name>
+  </category>
+  <category active="1">
+    <name>T7C</name>
+  </category>
+  <category active="1">
+    <name>T7D</name>
+  </category>
+  <category active="1">
+    <name>T8A</name>
+  </category>
+  <category active="1">
     <name>T8B</name>
   </category>
   <category active="1">
+    <name>T8C</name>
+  </category>
+  <category active="1">
+    <name>T8D</name>
+  </category>
+  <category active="1">
+    <name>T9A</name>
+  </category>
+  <category active="1">
     <name>T9B</name>
+  </category>
+  <category active="1">
+    <name>T0A</name>
+  </category>
+  <category active="1">
+    <name>T0B</name>
   </category>
   <category active="1">
     <name>T0C</name>
@@ -933,7 +975,7 @@
     <A>D. An amateur must use the minimum transmitter power necessary to carry out the desired communication</A>
   </item>
   <item>
-    <cat>T2A</cat>
+    <cat>T2B</cat>
     <Q>T2B01 
        What is the term used to describe an amateur station that is transmitting and receiving on the same frequency?
        A. Full duplex communication
@@ -944,7 +986,7 @@
     <A>C. Simplex communication</A>
   </item>
   <item>
-    <cat>T2A</cat>
+    <cat>T2B</cat>
     <Q>T2B02 
        What is the term used to describe the use of a sub-audible tone transmitted with normal voice audio to open the squelch of a receiver?
        A. Carrier squelch
@@ -955,7 +997,7 @@
     <A>D. CTCSS</A>
   </item>
   <item>
-    <cat>T2A</cat>
+    <cat>T2B</cat>
     <Q>T2B03 
        Which of the following describes the muting of receiver audio controlled solely by the presence or absence of an RF signal?
        A. Tone squelch
@@ -966,7 +1008,7 @@
     <A>B. Carrier squelch</A>
   </item>
   <item>
-    <cat>T2A</cat>
+    <cat>T2B</cat>
     <Q>T2B04 
        Which of the following common problems might cause you to be able to hear but not access a repeater even when transmitting with the proper offset?
        A. The repeater receiver requires audio tone burst for access
@@ -977,7 +1019,7 @@
     <A>D. All of these choices are correct</A>
   </item>
   <item>
-    <cat>T2A</cat>
+    <cat>T2B</cat>
     <Q>T2B05 
        What determines the amount of deviation of an FM signal?
        A. Both the frequency and amplitude of the modulating signal
@@ -988,7 +1030,7 @@
     <A>C. The amplitude of the modulating signal</A>
   </item>
   <item>
-    <cat>T2A</cat>
+    <cat>T2B</cat>
     <Q>T2B06 
        What happens when the deviation of an FM transmitter is increased?
        A. Its signal occupies more bandwidth
@@ -999,7 +1041,7 @@
     <A>A. Its signal occupies more bandwidth</A>
   </item>
   <item>
-    <cat>T2A</cat>
+    <cat>T2B</cat>
     <Q>T2B07 
        What should you do if you receive a report that your station’s transmissions are causing splatter or interference on nearby frequencies?
        A. Increase transmit power
@@ -1010,7 +1052,7 @@
     <A>D. Check your transmitter for off-frequency operation or spurious emissions</A>
   </item>
   <item>
-    <cat>T2A</cat>
+    <cat>T2B</cat>
     <Q>T2B08 
        What is the proper course of action if your station’s transmission unintentionally interferes with another station?
        A. Rotate your antenna slightly
@@ -1021,7 +1063,7 @@
     <A>B. Properly identify your transmission and move to a different frequency</A>
   </item>
   <item>
-    <cat>T2A</cat>
+    <cat>T2B</cat>
     <Q>T2B09 [97.119(b)(2)]
        Which of the following methods is encouraged by the FCC when identifying your station when using phone?
        A. Use of a phonetic alphabet
@@ -1032,7 +1074,7 @@
     <A>A. Use of a phonetic alphabet</A>
   </item>
   <item>
-    <cat>T2A</cat>
+    <cat>T2B</cat>
     <Q>T2B10 
        What is the "Q" signal used to indicate that you are receiving interference from other stations?
        A. QRM
@@ -1043,7 +1085,7 @@
     <A>A. QRM</A>
   </item>
   <item>
-    <cat>T2A</cat>
+    <cat>T2B</cat>
     <Q>T2B11 
        What is the "Q" signal used to indicate that you are changing frequency?
        A. QRU
@@ -1054,7 +1096,7 @@
     <A>B. QSY</A>
   </item>
   <item>
-    <cat>T2A</cat>
+    <cat>T2C</cat>
     <Q>T2C01 [97.103(a)]
        What set of rules applies to proper operation of your station when using amateur radio at the request of public service officials?
        A. RACES Rules
@@ -1065,7 +1107,7 @@
     <A>C. FCC Rules</A>
   </item>
   <item>
-    <cat>T2A</cat>
+    <cat>T2C</cat>
     <Q>T2C04 
        What do RACES and ARES have in common?
        A. They represent the two largest ham clubs in the United States
@@ -1076,7 +1118,7 @@
     <A>D. Both organizations may provide communications during emergencies</A>
   </item>
   <item>
-    <cat>T2A</cat>
+    <cat>T2C</cat>
     <Q>T2C05 [97.3(a)(37), 97.407 ]
        What is the Radio Amateur Civil Emergency Service?
        A. An emergency radio service organized by amateur operators
@@ -1087,7 +1129,7 @@
     <A>B. A radio service using amateur stations for emergency management or civil defense communications</A>
   </item>
   <item>
-    <cat>T2A</cat>
+    <cat>T2C</cat>
     <Q>T2C06 
        Which of the following is common practice during net operations to get the immediate attention of the net control station when reporting an emergency?
        A. Repeat the words SOS three times followed by the call sign of the reporting station
@@ -1098,7 +1140,7 @@
     <A>C. Begin your transmission with “Priority” or “Emergency” followed by your call sign</A>
   </item>
   <item>
-    <cat>T2A</cat>
+    <cat>T2C</cat>
     <Q>T2C07 
        What should you do to minimize disruptions to an emergency traffic net once you have checked in?
        A. Whenever the net frequency is quiet, announce your call sign and location
@@ -1109,7 +1151,7 @@
     <A>C. Do not transmit on the net frequency until asked to do so by the net control station</A>
   </item>
   <item>
-    <cat>T2A</cat>
+    <cat>T2C</cat>
     <Q>T2C08 
        What is usually considered to be the most important job of an amateur operator when handling emergency traffic messages?
        A. Passing messages exactly as written, spoken or as received
@@ -1120,7 +1162,7 @@
     <A>A. Passing messages exactly as written, spoken or as received</A>
   </item>
   <item>
-    <cat>T2A</cat>
+    <cat>T2C</cat>
     <Q>T2C09 [97.403]
        When may an amateur station use any means of radio communications at its disposal for essential communications in connection with immediate safety of human life and protection of property?
        A. Only when FEMA authorizes it by declaring an emergency
@@ -1131,7 +1173,7 @@
     <A>B. When normal communications systems are not available</A>
   </item>
   <item>
-    <cat>T2A</cat>
+    <cat>T2C</cat>
     <Q>T2C10 
        What is the preamble in a formal traffic message?
        A. The first paragraph of the message text
@@ -1142,7 +1184,7 @@
     <A>D. The information needed to track the message as it passes through the amateur radio traffic handling system</A>
   </item>
   <item>
-    <cat>T2A</cat>
+    <cat>T2C</cat>
     <Q>T2C11 
        What is meant by the term "check" in reference to a formal traffic message?
        A. The check is a count of the number of words or word equivalents in the text portion of the message
@@ -1516,7 +1558,7 @@
     <A>C. The Earth seems less curved to radio waves than to light</A>
   </item>
   <item>
-    <cat>T3C</cat>
+    <cat>T4A</cat>
     <Q>T4A01 
        Which of the following is true concerning the microphone connectors on amateur transceivers?
        A. All transceivers use the same microphone connector type
@@ -1527,7 +1569,7 @@
     <A>B. Some connectors include push-to-talk and voltages for powering the microphone</A>
   </item>
   <item>
-    <cat>T3C</cat>
+    <cat>T4A</cat>
     <Q>T4A02 
        What could be used in place of a regular speaker to help you copy signals in a noisy area?
        A. A video display
@@ -1538,7 +1580,7 @@
     <A>C. A set of headphones</A>
   </item>
   <item>
-    <cat>T3C</cat>
+    <cat>T4A</cat>
     <Q>T4A03 
        Which is a good reason to use a regulated power supply for communications equipment?
        A. It prevents voltage fluctuations from reaching sensitive circuits
@@ -1549,7 +1591,7 @@
     <A>A. It prevents voltage fluctuations from reaching sensitive circuits</A>
   </item>
   <item>
-    <cat>T3C</cat>
+    <cat>T4A</cat>
     <Q>T4A04 
        Where must a filter be installed to reduce harmonic emissions?
        A. Between the transmitter and the antenna
@@ -1560,7 +1602,7 @@
     <A>A. Between the transmitter and the antenna</A>
   </item>
   <item>
-    <cat>T3C</cat>
+    <cat>T4A</cat>
     <Q>T4A05 
        What type of filter should be connected to a TV receiver as the first step in trying to prevent RF overload from a nearby 2 meter transmitter?
        A. Low-pass filter
@@ -1571,7 +1613,7 @@
     <A>D. Band-reject filter</A>
   </item>
   <item>
-    <cat>T3C</cat>
+    <cat>T4A</cat>
     <Q>T4A06 
        Which of the following would be connected between a transceiver and computer in a packet radio station?
        A. Transmatch
@@ -1582,7 +1624,7 @@
     <A>C. Terminal node controller</A>
   </item>
   <item>
-    <cat>T3C</cat>
+    <cat>T4A</cat>
     <Q>T4A07 
        How is the computer’s sound card used when conducting digital communications using a computer?
        A. The sound card communicates between the computer CPU and the video display
@@ -1593,7 +1635,7 @@
     <A>C. The sound card provides audio to the microphone input and converts received audio to digital form</A>
   </item>
   <item>
-    <cat>T3C</cat>
+    <cat>T4A</cat>
     <Q>T4A08 
        Which type of conductor is best to use for RF grounding?
        A. Round stranded wire 
@@ -1604,7 +1646,7 @@
     <A>D. Flat strap</A>
   </item>
   <item>
-    <cat>T3C</cat>
+    <cat>T4A</cat>
     <Q>T4A09 
        Which would you use to reduce RF current flowing on the shield of an audio cable?
        A. Band-pass filter
@@ -1615,7 +1657,7 @@
     <A>D. Ferrite choke</A>
   </item>
   <item>
-    <cat>T3C</cat>
+    <cat>T4A</cat>
     <Q>T4A10 
        What is the source of a high-pitched whine that varies with engine speed in a mobile transceiver’s receive audio?
        A. The ignition system
@@ -1626,7 +1668,7 @@
     <A>B. The alternator</A>
   </item>
   <item>
-    <cat>T3C</cat>
+    <cat>T4A</cat>
     <Q>T4A11 
        Where should a mobile transceiver’s power negative connection be made?
        A. At the battery or engine block ground strap
@@ -2121,7 +2163,7 @@
     <A>B. 10 amperes</A>
   </item>
   <item>
-    <cat>T5C</cat>
+    <cat>T5D</cat>
     <Q>T5D01 
        What formula is used to calculate current in a circuit?
        A. Current (I) equals voltage (E) multiplied by resistance (R)
@@ -2132,7 +2174,7 @@
     <A>B. Current (I) equals voltage (E) divided by resistance (R)</A>
   </item>
   <item>
-    <cat>T5C</cat>
+    <cat>T5D</cat>
     <Q>T5D02 
        What formula is used to calculate voltage in a circuit?
        A. Voltage (E) equals current (I) multiplied by resistance (R)
@@ -2143,7 +2185,7 @@
     <A>A. Voltage (E) equals current (I) multiplied by resistance (R)</A>
   </item>
   <item>
-    <cat>T5C</cat>
+    <cat>T5D</cat>
     <Q>T5D03 
        What formula is used to calculate resistance in a circuit?
        A. Resistance (R) equals voltage (E) multiplied by current (I)
@@ -2154,7 +2196,7 @@
     <A>B. Resistance (R) equals voltage (E) divided by current (I)</A>
   </item>
   <item>
-    <cat>T5C</cat>
+    <cat>T5D</cat>
     <Q>T5D04 
        What is the resistance of a circuit in which a current of 3 amperes flows through a resistor connected to 90 volts?
        A. 3 ohms
@@ -2165,7 +2207,7 @@
     <A>B. 30 ohms</A>
   </item>
   <item>
-    <cat>T5C</cat>
+    <cat>T5D</cat>
     <Q>T5D05 
        What is the resistance in a circuit for which the applied voltage is 12 volts and the current flow is 1.5 amperes?
        A. 18 ohms
@@ -2176,7 +2218,7 @@
     <A>C. 8 ohms</A>
   </item>
   <item>
-    <cat>T5C</cat>
+    <cat>T5D</cat>
     <Q>T5D06 
        What is the resistance of a circuit that draws 4 amperes from a 12-volt source?
        A. 3 ohms
@@ -2187,7 +2229,7 @@
     <A>A. 3 ohms</A>
   </item>
   <item>
-    <cat>T5C</cat>
+    <cat>T5D</cat>
     <Q>T5D07 
        What is the current flow in a circuit with an applied voltage of 120 volts and a resistance of 80 ohms?
        A. 9600 amperes
@@ -2198,7 +2240,7 @@
     <A>D. 1.5 amperes</A>
   </item>
   <item>
-    <cat>T5C</cat>
+    <cat>T5D</cat>
     <Q>T5D08 
        What is the current flowing through a 100-ohm resistor connected across 200 volts?
        A. 20,000 amperes
@@ -2209,7 +2251,7 @@
     <A>C. 2 amperes</A>
   </item>
   <item>
-    <cat>T5C</cat>
+    <cat>T5D</cat>
     <Q>T5D09 
        What is the current flowing through a 24-ohm resistor connected across 240 volts?
        A. 24,000 amperes
@@ -2220,7 +2262,7 @@
     <A>C. 10 amperes</A>
   </item>
   <item>
-    <cat>T5C</cat>
+    <cat>T5D</cat>
     <Q>T5D10 
        What is the voltage across a 2-ohm resistor if a current of 0.5 amperes flows through it?
        A. 1 volt
@@ -2231,7 +2273,7 @@
     <A>A. 1 volt</A>
   </item>
   <item>
-    <cat>T5C</cat>
+    <cat>T5D</cat>
     <Q>T5D11 
        What is the voltage across a 10-ohm resistor if a current of 1 ampere flows through it?
        A. 1 volt
@@ -2242,7 +2284,7 @@
     <A>B. 10 volts</A>
   </item>
   <item>
-    <cat>T5C</cat>
+    <cat>T5D</cat>
     <Q>T5D12 
        What is the voltage across a 10-ohm resistor if a current of 2 amperes flows through it?
        A. 8 volts
@@ -2374,7 +2416,7 @@
     <A>B. Carbon-zinc</A>
   </item>
   <item>
-    <cat>T6A</cat>
+    <cat>T6B</cat>
     <Q>T6B01 
        What class of electronic components is capable of using a voltage or current signal to control current flow?
        A. Capacitors
@@ -2385,7 +2427,7 @@
     <A>D. Transistors</A>
   </item>
   <item>
-    <cat>T6A</cat>
+    <cat>T6B</cat>
     <Q>T6B02 
        What electronic component allows current to flow in only one direction?
        A. Resistor
@@ -2396,7 +2438,7 @@
     <A>C. Diode</A>
   </item>
   <item>
-    <cat>T6A</cat>
+    <cat>T6B</cat>
     <Q>T6B03 
        Which of these components can be used as an electronic switch or amplifier?
        A. Oscillator
@@ -2407,7 +2449,7 @@
     <A>C. Transistor</A>
   </item>
   <item>
-    <cat>T6A</cat>
+    <cat>T6B</cat>
     <Q>T6B04 
        Which of these components is made of three layers of semiconductor material?
        A. Alternator
@@ -2418,7 +2460,7 @@
     <A>B. Bipolar junction transistor</A>
   </item>
   <item>
-    <cat>T6A</cat>
+    <cat>T6B</cat>
     <Q>T6B05 
        Which of the following electronic components can amplify signals?
        A. Transistor
@@ -2429,7 +2471,7 @@
     <A>A. Transistor</A>
   </item>
   <item>
-    <cat>T6A</cat>
+    <cat>T6B</cat>
     <Q>T6B06 
        How is a semiconductor diode’s cathode lead usually identified?
        A. With the word "cathode"
@@ -2440,7 +2482,7 @@
     <A>B. With a stripe</A>
   </item>
   <item>
-    <cat>T6A</cat>
+    <cat>T6B</cat>
     <Q>T6B07 
        What does the abbreviation "LED" stand for?
        A. Low Emission Diode
@@ -2451,7 +2493,7 @@
     <A>B. Light Emitting Diode</A>
   </item>
   <item>
-    <cat>T6A</cat>
+    <cat>T6B</cat>
     <Q>T6B08 
        What does the abbreviation "FET" stand for?
        A. Field Effect Transistor
@@ -2462,7 +2504,7 @@
     <A>A. Field Effect Transistor</A>
   </item>
   <item>
-    <cat>T6A</cat>
+    <cat>T6B</cat>
     <Q>T6B09 
        What are the names of the two electrodes of a diode?
        A. Plus and minus
@@ -2473,7 +2515,7 @@
     <A>C. Anode and cathode</A>
   </item>
   <item>
-    <cat>T6A</cat>
+    <cat>T6B</cat>
     <Q>T6B10 
        Which semiconductor component has an emitter electrode?
        A. Bipolar transistor
@@ -2484,7 +2526,7 @@
     <A>A. Bipolar transistor</A>
   </item>
   <item>
-    <cat>T6A</cat>
+    <cat>T6B</cat>
     <Q>T6B11 
        Which semiconductor component has a gate electrode?
        A. Bipolar transistor
@@ -2495,7 +2537,7 @@
     <A>B. Field effect transistor</A>
   </item>
   <item>
-    <cat>T6A</cat>
+    <cat>T6B</cat>
     <Q>T6B12 
        What is the term that describes a transistor's ability to amplify a signal?
        A. Gain
@@ -2913,7 +2955,7 @@
     <A>A. Between the antenna and receiver</A>
   </item>
   <item>
-    <cat>T7A</cat>
+    <cat>T7B</cat>
     <Q>T7B01 
        What can you do if you are told your FM handheld or mobile transceiver is over deviating?
        A. Talk louder into the microphone
@@ -2924,7 +2966,7 @@
     <A>D. Talk farther away from the microphone</A>
   </item>
   <item>
-    <cat>T7A</cat>
+    <cat>T7B</cat>
     <Q>T7B02 
        What is meant by fundamental overload in reference to a receiver?
        A. Too much voltage from the power supply
@@ -2935,7 +2977,7 @@
     <A>C. Interference caused by very strong signals</A>
   </item>
   <item>
-    <cat>T7A</cat>
+    <cat>T7B</cat>
     <Q>T7B03 
        Which of the following may be a cause of radio frequency interference?
        A. Fundamental overload
@@ -2946,7 +2988,7 @@
     <A>D. All of these choices are correct</A>
   </item>
   <item>
-    <cat>T7A</cat>
+    <cat>T7B</cat>
     <Q>T7B04 
        What is the most likely cause of interference to a non-cordless telephone from a nearby transmitter?
        A. Harmonics from the transmitter
@@ -2957,7 +2999,7 @@
     <A>B. The telephone is inadvertently acting as a radio receiver</A>
   </item>
   <item>
-    <cat>T7A</cat>
+    <cat>T7B</cat>
     <Q>T7B05 
        What is a logical first step when attempting to cure a radio frequency interference problem in a nearby telephone?
        A. Install a low-pass filter at the transmitter
@@ -2968,7 +3010,7 @@
     <A>C. Install an RF filter at the telephone</A>
   </item>
   <item>
-    <cat>T7A</cat>
+    <cat>T7B</cat>
     <Q>T7B06 
        What should you do first if someone tells you that your station’s transmissions are interfering with their radio or TV reception?
        A. Make sure that your station is functioning properly and that it does not cause interference to your own television
@@ -2979,7 +3021,7 @@
     <A>A. Make sure that your station is functioning properly and that it does not cause interference to your own television</A>
   </item>
   <item>
-    <cat>T7A</cat>
+    <cat>T7B</cat>
     <Q>T7B07 
        Which of the following may be useful in correcting a radio frequency interference problem?
        A. Snap-on ferrite chokes
@@ -2990,7 +3032,7 @@
     <A>D. All of these choices are correct</A>
   </item>
   <item>
-    <cat>T7A</cat>
+    <cat>T7B</cat>
     <Q>T7B08 
        What should you do if a "Part 15" device in your neighbor’s home is causing harmful interference to your amateur station?
        A. Work with your neighbor to identify the offending device
@@ -3001,7 +3043,7 @@
     <A>D. All of these choices are correct</A>
   </item>
   <item>
-    <cat>T7A</cat>
+    <cat>T7B</cat>
     <Q>T7B09 
        What could be happening if another operator reports a variable high-pitched whine on the audio from your mobile transmitter?
        A. Your microphone is picking up noise from an open window
@@ -3012,7 +3054,7 @@
     <A>D. Noise on the vehicle’s electrical system is being transmitted along with your speech audio</A>
   </item>
   <item>
-    <cat>T7A</cat>
+    <cat>T7B</cat>
     <Q>T7B10 
        What might be the problem if you receive a report that your audio signal through the repeater is distorted or unintelligible?
        A. Your transmitter may be slightly off frequency
@@ -3023,7 +3065,7 @@
     <A>D. All of these choices are correct</A>
   </item>
   <item>
-    <cat>T7A</cat>
+    <cat>T7B</cat>
     <Q>T7B11 
        What is a symptom of RF feedback in a transmitter or transceiver?
        A. Excessive SWR at the antenna connection
@@ -3034,7 +3076,7 @@
     <A>C. Reports of garbled, distorted, or unintelligible transmissions</A>
   </item>
   <item>
-    <cat>T7A</cat>
+    <cat>T7B</cat>
     <Q>T7B12 
        What does the acronym "BER" mean when applied to digital communications systems?
        A. Baud Enhancement Recovery
@@ -3045,7 +3087,7 @@
     <A>C. Bit Error Rate</A>
   </item>
   <item>
-    <cat>T7A</cat>
+    <cat>T7C</cat>
     <Q>T7C01 
        What is the primary purpose of a dummy load?
        A. To prevent the radiation of signals when making tests
@@ -3056,7 +3098,7 @@
     <A>A. To prevent the radiation of signals when making tests</A>
   </item>
   <item>
-    <cat>T7A</cat>
+    <cat>T7C</cat>
     <Q>T7C02 
        Which of the following instruments can be used to determine if an antenna is resonant at the desired operating frequency?
        A. A VTVM
@@ -3067,7 +3109,7 @@
     <A>B. An antenna analyzer</A>
   </item>
   <item>
-    <cat>T7A</cat>
+    <cat>T7C</cat>
     <Q>T7C03 
        What, in general terms, is standing wave ratio (SWR)?
        A. A measure of how well a load is matched to a transmission line
@@ -3078,7 +3120,7 @@
     <A>A. A measure of how well a load is matched to a transmission line</A>
   </item>
   <item>
-    <cat>T7A</cat>
+    <cat>T7C</cat>
     <Q>T7C04 
        What reading on an SWR meter indicates a perfect impedance match between the antenna and the feedline?
        A. 2 to 1
@@ -3089,7 +3131,7 @@
     <A>C. 1 to 1</A>
   </item>
   <item>
-    <cat>T7A</cat>
+    <cat>T7C</cat>
     <Q>T7C05 
        What is the approximate SWR value above which the protection circuits in most solid-state transmitters begin to reduce transmitter power?
        A. 2 to 1
@@ -3100,7 +3142,7 @@
     <A>A. 2 to 1</A>
   </item>
   <item>
-    <cat>T7A</cat>
+    <cat>T7C</cat>
     <Q>T7C06 
        What does an SWR reading of 4:1 mean?
        A. An antenna loss of 4 dB
@@ -3111,7 +3153,7 @@
     <A>D. An impedance mismatch</A>
   </item>
   <item>
-    <cat>T7A</cat>
+    <cat>T7C</cat>
     <Q>T7C07 
        What happens to power lost in a feedline?
        A. It increases the SWR
@@ -3122,7 +3164,7 @@
     <A>C. It is converted into heat</A>
   </item>
   <item>
-    <cat>T7A</cat>
+    <cat>T7C</cat>
     <Q>T7C08 
        What instrument other than an SWR meter could you use to determine if a feedline and antenna are properly matched?
        A. Voltmeter
@@ -3133,7 +3175,7 @@
     <A>D. Directional wattmeter</A>
   </item>
   <item>
-    <cat>T7A</cat>
+    <cat>T7C</cat>
     <Q>T7C09 
        Which of the following is the most common cause for failure of coaxial cables?
        A. Moisture contamination
@@ -3144,7 +3186,7 @@
     <A>A. Moisture contamination</A>
   </item>
   <item>
-    <cat>T7A</cat>
+    <cat>T7C</cat>
     <Q>T7C10 
        Why should the outer jacket of coaxial cable be resistant to ultraviolet light?
        A. Ultraviolet resistant jackets prevent harmonic radiation
@@ -3155,7 +3197,7 @@
     <A>D. Ultraviolet light can damage the jacket and allow water to enter the cable</A>
   </item>
   <item>
-    <cat>T7A</cat>
+    <cat>T7C</cat>
     <Q>T7C11 
        What is a disadvantage of "air core" coaxial cable when compared to foam or solid dielectric types?
        A. It has more loss per foot
@@ -3166,7 +3208,7 @@
     <A>C. It requires special techniques to prevent water absorption</A>
   </item>
   <item>
-    <cat>T7A</cat>
+    <cat>T7D</cat>
     <Q>T7D01 
        Which instrument would you use to measure electric potential or electromotive force?
        A. An ammeter
@@ -3177,7 +3219,7 @@
     <A>B. A voltmeter</A>
   </item>
   <item>
-    <cat>T7A</cat>
+    <cat>T7D</cat>
     <Q>T7D02 
        What is the correct way to connect a voltmeter to a circuit?
        A. In series with the circuit
@@ -3188,7 +3230,7 @@
     <A>B. In parallel with the circuit</A>
   </item>
   <item>
-    <cat>T7A</cat>
+    <cat>T7D</cat>
     <Q>T7D03 
        How is an ammeter usually connected to a circuit?
        A. In series with the circuit
@@ -3199,7 +3241,7 @@
     <A>A. In series with the circuit</A>
   </item>
   <item>
-    <cat>T7A</cat>
+    <cat>T7D</cat>
     <Q>T7D04 
        Which instrument is used to measure electric current?
        A. An ohmmeter
@@ -3210,7 +3252,7 @@
     <A>D. An ammeter</A>
   </item>
   <item>
-    <cat>T7A</cat>
+    <cat>T7D</cat>
     <Q>T7D05 
        What instrument is used to measure resistance?
        A. An oscilloscope
@@ -3221,7 +3263,7 @@
     <A>D. An ohmmeter</A>
   </item>
   <item>
-    <cat>T7A</cat>
+    <cat>T7D</cat>
     <Q>T7D06 
        Which of the following might damage a multimeter?
        A. Measuring a voltage too small for the chosen scale
@@ -3232,7 +3274,7 @@
     <A>C. Attempting to measure voltage when using the resistance setting</A>
   </item>
   <item>
-    <cat>T7A</cat>
+    <cat>T7D</cat>
     <Q>T7D07 
        Which of the following measurements are commonly made using a multimeter?
        A. SWR and RF power
@@ -3243,7 +3285,7 @@
     <A>D. Voltage and resistance</A>
   </item>
   <item>
-    <cat>T7A</cat>
+    <cat>T7D</cat>
     <Q>T7D08 
        Which of the following types of solder is best for radio and electronic use?
        A. Acid-core solder
@@ -3254,7 +3296,7 @@
     <A>C. Rosin-core solder</A>
   </item>
   <item>
-    <cat>T7A</cat>
+    <cat>T7D</cat>
     <Q>T7D09 
        What is the characteristic appearance of a "cold" solder joint?
        A. Dark black spots
@@ -3265,7 +3307,7 @@
     <A>C. A grainy or dull surface</A>
   </item>
   <item>
-    <cat>T7A</cat>
+    <cat>T7D</cat>
     <Q>T7D10 
        What is probably happening when an ohmmeter, connected across a circuit, initially indicates a low resistance and then shows increasing resistance with time?
        A. The ohmmeter is defective
@@ -3276,7 +3318,7 @@
     <A>B. The circuit contains a large capacitor</A>
   </item>
   <item>
-    <cat>T7A</cat>
+    <cat>T7D</cat>
     <Q>T7D11 
        Which of the following precautions should be taken when measuring circuit resistance with an ohmmeter?
        A. Ensure that the applied voltages are correct
@@ -3287,7 +3329,7 @@
     <A>B. Ensure that the circuit is not powered</A>
   </item>
   <item>
-    <cat>T7A</cat>
+    <cat>T8A</cat>
     <Q>T8A01 
        Which of the following is a form of amplitude modulation?
        A. Spread-spectrum
@@ -3298,7 +3340,7 @@
     <A>C. Single sideband</A>
   </item>
   <item>
-    <cat>T7A</cat>
+    <cat>T8A</cat>
     <Q>T8A02 
        What type of modulation is most commonly used for VHF packet radio transmissions?
        A. FM
@@ -3309,7 +3351,7 @@
     <A>A. FM</A>
   </item>
   <item>
-    <cat>T7A</cat>
+    <cat>T8A</cat>
     <Q>T8A03 
        Which type of voice modulation is most often used for long-distance or weak signal contacts on the VHF and UHF bands?
        A. FM
@@ -3320,7 +3362,7 @@
     <A>C. SSB</A>
   </item>
   <item>
-    <cat>T7A</cat>
+    <cat>T8A</cat>
     <Q>T8A04 
        Which type of modulation is most commonly used for VHF and UHF voice repeaters?
        A. AM
@@ -3331,7 +3373,7 @@
     <A>D. FM</A>
   </item>
   <item>
-    <cat>T7A</cat>
+    <cat>T8A</cat>
     <Q>T8A05 
        Which of the following types of emission has the narrowest bandwidth?
        A. FM voice
@@ -3342,7 +3384,7 @@
     <A>C. CW</A>
   </item>
   <item>
-    <cat>T7A</cat>
+    <cat>T8A</cat>
     <Q>T8A06 
        Which sideband is normally used for 10 meter HF, VHF and UHF single-sideband communications?
        A. Upper sideband
@@ -3353,7 +3395,7 @@
     <A>A. Upper sideband</A>
   </item>
   <item>
-    <cat>T7A</cat>
+    <cat>T8A</cat>
     <Q>T8A07 
        What is the primary advantage of single sideband over FM for voice transmissions?
        A. SSB signals are easier to tune
@@ -3364,7 +3406,7 @@
     <A>C. SSB signals have narrower bandwidth</A>
   </item>
   <item>
-    <cat>T7A</cat>
+    <cat>T8A</cat>
     <Q>T8A08 
        What is the approximate bandwidth of a single sideband voice signal?
        A. 1 kHz
@@ -3375,7 +3417,7 @@
     <A>B. 3 kHz</A>
   </item>
   <item>
-    <cat>T7A</cat>
+    <cat>T8A</cat>
     <Q>T8A09 
        What is the approximate bandwidth of a VHF repeater FM phone signal?
        A. Less than 500 Hz 
@@ -3386,7 +3428,7 @@
     <A>C. Between 5 and 15 kHz</A>
   </item>
   <item>
-    <cat>T7A</cat>
+    <cat>T8A</cat>
     <Q>T8A10 
        What is the typical bandwidth of analog fast-scan TV transmissions on the 70 cm band?
        A. More than 10 MHz
@@ -3397,7 +3439,7 @@
     <A>B. About 6 MHz</A>
   </item>
   <item>
-    <cat>T7A</cat>
+    <cat>T8A</cat>
     <Q>T8A11 
        What is the approximate maximum bandwidth required to transmit a CW signal?
        A. 2.4 kHz
@@ -3529,7 +3571,7 @@
     <A>C. FM Packet</A>
   </item>
   <item>
-    <cat>T8B</cat>
+    <cat>T8C</cat>
     <Q>T8C01 
        Which of the following methods is used to locate sources of noise interference or jamming?
        A. Echolocation
@@ -3540,7 +3582,7 @@
     <A>C. Radio direction finding</A>
   </item>
   <item>
-    <cat>T8B</cat>
+    <cat>T8C</cat>
     <Q>T8C02 
        Which of these items would be useful for a hidden transmitter hunt?
        A. Calibrated SWR meter
@@ -3551,7 +3593,7 @@
     <A>B. A directional antenna</A>
   </item>
   <item>
-    <cat>T8B</cat>
+    <cat>T8C</cat>
     <Q>T8C03 
        What popular operating activity involves contacting as many stations as possible during a specified period of time?
        A. Contesting
@@ -3562,7 +3604,7 @@
     <A>A. Contesting</A>
   </item>
   <item>
-    <cat>T8B</cat>
+    <cat>T8C</cat>
     <Q>T8C04 
        Which of the following is good procedure when contacting another station in a radio contest?
        A. Be sure to sign only the last two letters of your call if there is a pileup calling the station
@@ -3573,7 +3615,7 @@
     <A>C. Send only the minimum information needed for proper identification and the contest exchange</A>
   </item>
   <item>
-    <cat>T8B</cat>
+    <cat>T8C</cat>
     <Q>T8C05 
        What is a grid locator?
        A. A letter-number designator assigned to a geographic location
@@ -3584,7 +3626,7 @@
     <A>A. A letter-number designator assigned to a geographic location</A>
   </item>
   <item>
-    <cat>T8B</cat>
+    <cat>T8C</cat>
     <Q>T8C06 
        For what purpose is a temporary "1 by 1" format (letter-number-letter) call sign assigned?
        A. To designate an experimental station
@@ -3595,7 +3637,7 @@
     <A>C. For operations in conjunction with an activity of special significance to the amateur community</A>
   </item>
   <item>
-    <cat>T8B</cat>
+    <cat>T8C</cat>
     <Q>T8C07 [97.215(c)]
        What is the maximum power allowed when transmitting telecommand signals to radio controlled models?
        A. 500 milliwatts
@@ -3606,7 +3648,7 @@
     <A>B. 1 watt</A>
   </item>
   <item>
-    <cat>T8B</cat>
+    <cat>T8C</cat>
     <Q>T8C08 [97.215(a)]
        What is required in place of on-air station identification when sending signals to a radio control model using amateur frequencies?
        A. Voice identification must be transmitted every 10 minutes
@@ -3617,7 +3659,7 @@
     <A>C. A label indicating the licensee’s name, call sign and address must be affixed to the transmitter</A>
   </item>
   <item>
-    <cat>T8B</cat>
+    <cat>T8C</cat>
     <Q>T8C09 
        How might you obtain a list of active nodes that use VoIP?
        A. From the FCC Rulebook
@@ -3628,7 +3670,7 @@
     <A>C. From a repeater directory</A>
   </item>
   <item>
-    <cat>T8B</cat>
+    <cat>T8C</cat>
     <Q>T8C10 
        How do you select a specific IRLP node when using a portable transceiver?
        A. Choose a specific CTCSS tone
@@ -3639,7 +3681,7 @@
     <A>D. Use the keypad to transmit the IRLP node ID</A>
   </item>
   <item>
-    <cat>T8B</cat>
+    <cat>T8C</cat>
     <Q>T8C11 
        What name is given to an amateur radio station that is used to connect other amateur stations to the Internet?
        A. A gateway
@@ -3650,7 +3692,7 @@
     <A>A. A gateway</A>
   </item>
   <item>
-    <cat>T8B</cat>
+    <cat>T8D</cat>
     <Q>T8D01 
        Which of the following is an example of a digital communications method?
        A. Packet
@@ -3661,7 +3703,7 @@
     <A>D. All of these choices are correct</A>
   </item>
   <item>
-    <cat>T8B</cat>
+    <cat>T8D</cat>
     <Q>T8D02 
        What does the term APRS mean?
        A. Automatic Position Reporting System
@@ -3672,7 +3714,7 @@
     <A>A. Automatic Position Reporting System</A>
   </item>
   <item>
-    <cat>T8B</cat>
+    <cat>T8D</cat>
     <Q>T8D03 
        Which of the following is normally used when sending automatic location reports via amateur radio?
        A. A connection to the vehicle speedometer
@@ -3683,7 +3725,7 @@
     <A>D. A Global Positioning System receiver</A>
   </item>
   <item>
-    <cat>T8B</cat>
+    <cat>T8D</cat>
     <Q>T8D04 
        What type of transmission is indicated by the term NTSC?
        A. A Normal Transmission mode in Static Circuit
@@ -3694,7 +3736,7 @@
     <A>C. An analog fast scan color TV signal</A>
   </item>
   <item>
-    <cat>T8B</cat>
+    <cat>T8D</cat>
     <Q>T8D05 
        Which of the following emission modes may be used by a Technician Class operator between 219 and 220 MHz?
        A. Spread spectrum
@@ -3705,7 +3747,7 @@
     <A>B. Data</A>
   </item>
   <item>
-    <cat>T8B</cat>
+    <cat>T8D</cat>
     <Q>T8D06 
        What does the abbreviation PSK mean?
        A. Pulse Shift Keying
@@ -3716,7 +3758,7 @@
     <A>B. Phase Shift Keying</A>
   </item>
   <item>
-    <cat>T8B</cat>
+    <cat>T8D</cat>
     <Q>T8D07 
        What is PSK31?
        A. A high-rate data transmission mode
@@ -3727,7 +3769,7 @@
     <A>D. A low-rate data transmission mode </A>
   </item>
   <item>
-    <cat>T8B</cat>
+    <cat>T8D</cat>
     <Q>T8D08 
        Which of the following may be included in packet transmissions?
        A. A check sum which permits error detection
@@ -3738,7 +3780,7 @@
     <A>D. All of these choices are correct </A>
   </item>
   <item>
-    <cat>T8B</cat>
+    <cat>T8D</cat>
     <Q>T8D09 
        What code is used when sending CW in the amateur bands?
        A. Baudot
@@ -3749,7 +3791,7 @@
     <A>C. International Morse</A>
   </item>
   <item>
-    <cat>T8B</cat>
+    <cat>T8D</cat>
     <Q>T8D10 
        Which of the following can be used to transmit CW in the amateur bands?
        A. Straight Key
@@ -3760,7 +3802,7 @@
     <A>D. All of these choices are correct</A>
   </item>
   <item>
-    <cat>T8B</cat>
+    <cat>T8D</cat>
     <Q>T8D11 
        What is a "parity" bit?
        A. A control code required for automatic position reporting
@@ -3771,7 +3813,7 @@
     <A>C. An extra code element used to detect errors in received data</A>
   </item>
   <item>
-    <cat>T8B</cat>
+    <cat>T9A</cat>
     <Q>T9A01 
        What is a beam antenna?
        A. An antenna built from aluminum I-beams
@@ -3782,7 +3824,7 @@
     <A>C. An antenna that concentrates signals in one direction</A>
   </item>
   <item>
-    <cat>T8B</cat>
+    <cat>T9A</cat>
     <Q>T9A02 
        Which of the following is true regarding vertical antennas?
        A. The magnetic field is perpendicular to the Earth
@@ -3793,7 +3835,7 @@
     <A>B. The electric field is perpendicular to the Earth</A>
   </item>
   <item>
-    <cat>T8B</cat>
+    <cat>T9A</cat>
     <Q>T9A03 
        Which of the following describes a simple dipole mounted so the conductor is parallel to the Earth's surface?
        A. A ground wave antenna
@@ -3804,7 +3846,7 @@
     <A>B. A horizontally polarized antenna</A>
   </item>
   <item>
-    <cat>T8B</cat>
+    <cat>T9A</cat>
     <Q>T9A04 
        What is a disadvantage of the "rubber duck" antenna supplied with most handheld radio transceivers?
        A. It does not transmit or receive as effectively as a full-sized antenna
@@ -3815,7 +3857,7 @@
     <A>A. It does not transmit or receive as effectively as a full-sized antenna</A>
   </item>
   <item>
-    <cat>T8B</cat>
+    <cat>T9A</cat>
     <Q>T9A05 
        How would you change a dipole antenna to make it resonant on a higher frequency?
        A. Lengthen it
@@ -3826,7 +3868,7 @@
     <A>C. Shorten it</A>
   </item>
   <item>
-    <cat>T8B</cat>
+    <cat>T9A</cat>
     <Q>T9A06 
        What type of antennas are the quad, Yagi, and dish?
        A. Non-resonant antennas
@@ -3837,7 +3879,7 @@
     <A>C. Directional antennas</A>
   </item>
   <item>
-    <cat>T8B</cat>
+    <cat>T9A</cat>
     <Q>T9A07 
        What is a good reason not to use a "rubber duck" antenna inside your car?
        A. Signals can be significantly weaker than when it is outside of the vehicle
@@ -3848,7 +3890,7 @@
     <A>A. Signals can be significantly weaker than when it is outside of the vehicle</A>
   </item>
   <item>
-    <cat>T8B</cat>
+    <cat>T9A</cat>
     <Q>T9A08 
        What is the approximate length, in inches, of a quarter-wavelength vertical antenna for 146 MHz?
        A. 112
@@ -3859,7 +3901,7 @@
     <A>C. 19</A>
   </item>
   <item>
-    <cat>T8B</cat>
+    <cat>T9A</cat>
     <Q>T9A09 
        What is the approximate length, in inches, of a 6 meter 1/2-wavelength wire dipole antenna?
        A. 6
@@ -3870,7 +3912,7 @@
     <A>C. 112</A>
   </item>
   <item>
-    <cat>T8B</cat>
+    <cat>T9A</cat>
     <Q>T9A10 
        In which direction is the radiation strongest from a half-wave dipole antenna in free space?
        A. Equally in all directions
@@ -3881,7 +3923,7 @@
     <A>C. Broadside to the antenna</A>
   </item>
   <item>
-    <cat>T8B</cat>
+    <cat>T9A</cat>
     <Q>T9A11 
        What is meant by the gain of an antenna?
        A. The additional power that is added to the transmitter power
@@ -4013,7 +4055,7 @@
     <A>C. Air-insulated hard line</A>
   </item>
   <item>
-    <cat>T9B</cat>
+    <cat>T0A</cat>
     <Q>T0A01 
        Which is a commonly accepted value for the lowest voltage that can cause a dangerous electric shock?
        A. 12 volts
@@ -4024,7 +4066,7 @@
     <A>B. 30 volts</A>
   </item>
   <item>
-    <cat>T9B</cat>
+    <cat>T0A</cat>
     <Q>T0A02 
        How does current flowing through the body cause a health hazard?
        A. By heating tissue
@@ -4035,7 +4077,7 @@
     <A>D. All of these choices are correct</A>
   </item>
   <item>
-    <cat>T9B</cat>
+    <cat>T0A</cat>
     <Q>T0A03 
        What is connected to the green wire in a three-wire electrical AC plug?
        A. Neutral
@@ -4046,7 +4088,7 @@
     <A>C. Safety ground</A>
   </item>
   <item>
-    <cat>T9B</cat>
+    <cat>T0A</cat>
     <Q>T0A04 
        What is the purpose of a fuse in an electrical circuit?
        A. To prevent power supply ripple from damaging a circuit
@@ -4057,7 +4099,7 @@
     <A>B. To interrupt power in case of overload</A>
   </item>
   <item>
-    <cat>T9B</cat>
+    <cat>T0A</cat>
     <Q>T0A05 
        Why is it unwise to install a 20-ampere fuse in the place of a 5-ampere fuse?
        A. The larger fuse would be likely to blow because it is rated for higher current
@@ -4068,7 +4110,7 @@
     <A>C. Excessive current could cause a fire</A>
   </item>
   <item>
-    <cat>T9B</cat>
+    <cat>T0A</cat>
     <Q>T0A06 
        What is a good way to guard against electrical shock at your station?
        A. Use three-wire cords and plugs for all AC powered equipment
@@ -4079,7 +4121,7 @@
     <A>D. All of these choices are correct</A>
   </item>
   <item>
-    <cat>T9B</cat>
+    <cat>T0A</cat>
     <Q>T0A07 
        Which of these precautions should be taken when installing devices for lightning protection in a coaxial cable feedline?
        A. Include a parallel bypass switch for each protector so that it can be switched out of the circuit when running high power
@@ -4090,7 +4132,7 @@
     <A>D. Ground all of the protectors to a common plate which is in turn connected to an external ground</A>
   </item>
   <item>
-    <cat>T9B</cat>
+    <cat>T0A</cat>
     <Q>T0A08 
        What is one way to recharge a 12-volt lead-acid station battery if the commercial power is out?
        A. Cool the battery in ice for several hours
@@ -4101,7 +4143,7 @@
     <A>C. Connect the battery to a car's battery and run the engine</A>
   </item>
   <item>
-    <cat>T9B</cat>
+    <cat>T0A</cat>
     <Q>T0A09 
        What kind of hazard is presented by a conventional 12-volt storage battery?
        A. It emits ozone which can be harmful to the atmosphere
@@ -4112,7 +4154,7 @@
     <A>C. Explosive gas can collect if not properly vented</A>
   </item>
   <item>
-    <cat>T9B</cat>
+    <cat>T0A</cat>
     <Q>T0A10 
        What can happen if a lead-acid storage battery is charged or discharged too quickly?
        A. The battery could overheat and give off flammable gas or explode
@@ -4123,7 +4165,7 @@
     <A>A. The battery could overheat and give off flammable gas or explode</A>
   </item>
   <item>
-    <cat>T9B</cat>
+    <cat>T0A</cat>
     <Q>T0A11 
        Which of the following is good practice when installing ground wires on a tower for lightning protection?
        A. Put a loop in the ground connection to prevent water damage to the ground system
@@ -4134,7 +4176,7 @@
     <A>C. Ensure that connections are short and direct</A>
   </item>
   <item>
-    <cat>T9B</cat>
+    <cat>T0A</cat>
     <Q>T0A12 
        What kind of hazard might exist in a power supply when it is turned off and disconnected?
        A. Static electricity could damage the grounding system
@@ -4145,7 +4187,7 @@
     <A>D. You might receive an electric shock from stored charge in large capacitors</A>
   </item>
   <item>
-    <cat>T9B</cat>
+    <cat>T0A</cat>
     <Q>T0A13 
        What safety equipment should always be included in home-built equipment that is powered from 120V AC power circuits?
        A. A fuse or circuit breaker in series with the AC "hot" conductor
@@ -4156,7 +4198,7 @@
     <A>A. A fuse or circuit breaker in series with the AC "hot" conductor</A>
   </item>
   <item>
-    <cat>T9B</cat>
+    <cat>T0B</cat>
     <Q>T0B01 
        When should members of a tower work team wear a hard hat and safety glasses?
        A. At all times except when climbing the tower
@@ -4167,7 +4209,7 @@
     <A>C. At all times when any work is being done on the tower</A>
   </item>
   <item>
-    <cat>T9B</cat>
+    <cat>T0B</cat>
     <Q>T0B02 
        What is a good precaution to observe before climbing an antenna tower?
        A. Make sure that you wear a grounded wrist strap
@@ -4178,7 +4220,7 @@
     <A>C. Put on a climbing harness and safety glasses</A>
   </item>
   <item>
-    <cat>T9B</cat>
+    <cat>T0B</cat>
     <Q>T0B03 
        Under what circumstances is it safe to climb a tower without a helper or observer?
        A. When no electrical work is being performed
@@ -4189,7 +4231,7 @@
     <A>D. Never</A>
   </item>
   <item>
-    <cat>T9B</cat>
+    <cat>T0B</cat>
     <Q>T0B04 
        Which of the following is an important safety precaution to observe when putting up an antenna tower?
        A. Wear a ground strap connected to your wrist at all times
@@ -4200,7 +4242,7 @@
     <A>C. Look for and stay clear of any overhead electrical wires</A>
   </item>
   <item>
-    <cat>T9B</cat>
+    <cat>T0B</cat>
     <Q>T0B05 
        What is the purpose of a gin pole?
        A. To temporarily replace guy wires
@@ -4211,7 +4253,7 @@
     <A>C. To lift tower sections or antennas</A>
   </item>
   <item>
-    <cat>T9B</cat>
+    <cat>T0B</cat>
     <Q>T0B06 
        What is the minimum safe distance from a power line to allow when installing an antenna?
        A. Half the width of your property
@@ -4222,7 +4264,7 @@
     <A>D. So that if the antenna falls unexpectedly, no part of it can come closer than 10 feet to the power wires</A>
   </item>
   <item>
-    <cat>T9B</cat>
+    <cat>T0B</cat>
     <Q>T0B07 
        Which of the following is an important safety rule to remember when using a crank-up tower?
        A. This type of tower must never be painted
@@ -4233,7 +4275,7 @@
     <A>C. This type of tower must never be climbed unless it is in the fully retracted position</A>
   </item>
   <item>
-    <cat>T9B</cat>
+    <cat>T0B</cat>
     <Q>T0B08 
        What is considered to be a proper grounding method for a tower?
        A. A single four-foot ground rod, driven into the ground no more than 12 inches from the base
@@ -4244,7 +4286,7 @@
     <A>C. Separate eight-foot long ground rods for each tower leg, bonded to the tower and each other</A>
   </item>
   <item>
-    <cat>T9B</cat>
+    <cat>T0B</cat>
     <Q>T0B09 
        Why should you avoid attaching an antenna to a utility pole?
        A. The antenna will not work properly because of induced voltages
@@ -4255,7 +4297,7 @@
     <A>C. The antenna could contact high-voltage power wires</A>
   </item>
   <item>
-    <cat>T9B</cat>
+    <cat>T0B</cat>
     <Q>T0B10 
        Which of the following is true concerning grounding conductors used for lightning protection?
        A. Only non-insulated wire must be used
@@ -4266,7 +4308,7 @@
     <A>C. Sharp bends must be avoided</A>
   </item>
   <item>
-    <cat>T9B</cat>
+    <cat>T0B</cat>
     <Q>T0B11 
        Which of the following establishes grounding requirements for an amateur radio tower or antenna?
        A. FCC Part 97 Rules
