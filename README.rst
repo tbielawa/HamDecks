@@ -5,6 +5,8 @@ NCVEC Question Pool sources.
 Inspired by the old mnemosyne decks posted by Kelly Martin:
 http://nonbovine-ruminations.blogspot.com/2009/01/mnemosyne-study-decks-for-fcc-amateur.html
 
+*Update: 2013-09-24: these decks are sadly no longer available for download*
+
 
 To use these XML decks you need Mnemosyne installed on your
 system. It's free, written in Python (so it runs on Windows/Mac OS
@@ -49,3 +51,10 @@ ARRL Question Pools
 http://www.arrl.org/question-pools/
 
 The single place to go for the latest FCC question pools.
+
+
+Additional Credits
+==================
+My gratitude goes out to `gwillen <https://github.com/gwillen>`_ for
+helping me finish this project after 2 years of inactivity and finally
+getting the General and Extra class pools completed.
