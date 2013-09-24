@@ -8,7 +8,7 @@ http://nonbovine-ruminations.blogspot.com/2009/01/mnemosyne-study-decks-for-fcc-
 *Update: 2013-09-24: these decks are sadly no longer available for download*
 
 
-To use these XML decks you need Mnemosyne installed on your
+To use these XML decks you need Mnemosyne http://www.mnemosyne-proj.org/ installed on your
 system. It's free, written in Python (so it runs on Windows/Mac OS
 X/Linux), and uses an algorithm to help you spend more time on the
 questions you really need to study.
