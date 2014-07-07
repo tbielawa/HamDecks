@@ -2016,10 +2016,8 @@ D. To the alternator or generator using resistor wire
 G4E04 (B) 
 Why is it best NOT to draw the DC power for a 100-watt HF transceiver from an automobile's auxiliary power socket?
 A. The socket is not wired with an RF-shielded power cable
-B. The socket's wiring may be inadequate for the current being drawn by the
-transceiver
-C. The DC polarity of the socket is reversed from the polarity of modern HF
-transceivers
+B. The socket's wiring may be inadequate for the current being drawn by the transceiver
+C. The DC polarity of the socket is reversed from the polarity of modern HF transceivers
 D. Drawing more than 50 watts from this socket could cause the engine to overheat
 ~~
 
@@ -2905,7 +2903,7 @@ C. A connector designed for serial multiple access signals
 D. A type of push-on connector intended for high-voltage applications
 ~~
 
-G7 – PRACTICAL CIRCUITS [3 Exam Questions – 3 Groups]
+SUBELEMENT G7 – PRACTICAL CIRCUITS [3 Exam Questions – 3 Groups]
 
 
 G7A Power supplies; and schematic symbols
@@ -2974,7 +2972,7 @@ D. A steady DC voltage
 ~~
 
 
-G7A08(C) 
+G7A08 (C) 
 Which of the following is an advantage of a switch-mode power supply as compared to a linear power supply?
 A. Faster switching time makes higher output voltage possible
 B. Fewer circuit components are required
@@ -3426,8 +3424,7 @@ D. The frequency stability would not be adequate
 
 
 G8B06 (D)
-What is the total bandwidth of an FM-phone transmission having a 5 kHz
-deviation and a 3 kHz modulating frequency?
+What is the total bandwidth of an FM-phone transmission having a 5 kHz deviation and a 3 kHz modulating frequency?
 A. 3 kHz
 B. 5 kHz
 C. 8 kHz
@@ -3498,8 +3495,7 @@ G9A - Antenna feed lines: characteristic impedance, and attenuation; SWR calcula
 
 G9A01 (A)
 Which of the following factors determine the characteristic impedance of a parallel conductor antenna feed line?
-A. The distance between the centers of the conductors and the radius of the
-conductors
+A. The distance between the centers of the conductors and the radius of the conductors
 B. The distance between the centers of the conductors and the length of the line
 C. The radius of the conductors and the frequency of the signal
 D. The frequency of the signal and the length of the line
@@ -4287,24 +4283,4 @@ B. When being discharged
 C. When being charged
 D. When not placed on a level surface
 ~~
-
-2011-2015 Element 3 Figure G7-1
-Revised 2-22-2011 Figure G7-1 was replaced to correct schematic error in which the varactor diode (item 4) was shown reversed.  (See new G7-1 files on the website: www.ncvec.org for additional formats available for download.)
-
-
-
-
-
-
-
-
-
-
-
-~~ End of Pool ~~
-
-
-
-1
-
 

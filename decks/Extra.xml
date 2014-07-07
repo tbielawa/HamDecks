@@ -2200,12 +2200,12 @@
     <cat>E4A</cat>
     <Q>E4A10 
        Which of the following tests establishes that a silicon NPN junction transistor is biased on?
-       A. Measure base-to-emitter resistance with an ohmmeter; it should be approximately
+       A. Measure base-to-emitter resistance with an ohmmeter; it should be approximately 6 to 7 ohms
        B. Measure base-to-emitter resistance with an ohmmeter; it should be approximately 0.6 to 0.7 ohms
-       C. Measure base-to-emitter voltage with a voltmeter; it should be approximately 
-       D. Measure base-to-emitter voltage with a voltmeter; it should be approximately
+       C. Measure base-to-emitter voltage with a voltmeter; it should be approximately 6 to 7 volts
+       D. Measure base-to-emitter voltage with a voltmeter; it should be approximately 0.6 to 0.7 volts
     </Q>
-    <A>D. Measure base-to-emitter voltage with a voltmeter; it should be approximately</A>
+    <A>D. Measure base-to-emitter voltage with a voltmeter; it should be approximately 0.6 to 0.7 volts</A>
   </item>
   <item>
     <cat>E4A</cat>
@@ -5804,10 +5804,17 @@
     </Q>
     <A>B. Colpitts and Hartley</A>
   </item>
+  <item>
+    <cat>E7H</cat>
+    <Q>E7H07 
+       What is a magnetron oscillator?
        A. An oscillator in which the output is fed back to the input by the magnetic field of a transformer
        B. A crystal oscillator in which variable frequency is obtained by placing the crystal in a strong magnetic field
        C. A UHF or microwave oscillator consisting of a diode vacuum tube with a specially shaped anode, surrounded by an external magnet 
        D. A reference standard oscillator in which the oscillations are synchronized by magnetic coupling to a rubidium gas tube
+    </Q>
+    <A>C. A UHF or microwave oscillator consisting of a diode vacuum tube with a specially shaped anode, surrounded by an external magnet </A>
+  </item>
   <item>
     <cat>E7H</cat>
     <Q>E7H08 
@@ -7230,7 +7237,7 @@
   <item>
     <cat>E9E</cat>
     <Q>E9E06 
-       What is the equivalent lumped-constant network for a hairpin matching system on a 
+       What is the equivalent lumped-constant network for a hairpin matching system on a 3-element Yagi?
        A. Pi network
        B. Pi-L network
        C. L network

@@ -2464,11 +2464,11 @@
     <Q>G4E04 
        Why is it best NOT to draw the DC power for a 100-watt HF transceiver from an automobile's auxiliary power socket?
        A. The socket is not wired with an RF-shielded power cable
-       B. The socket's wiring may be inadequate for the current being drawn by the
-       C. The DC polarity of the socket is reversed from the polarity of modern HF
+       B. The socket's wiring may be inadequate for the current being drawn by the transceiver
+       C. The DC polarity of the socket is reversed from the polarity of modern HF transceivers
        D. Drawing more than 50 watts from this socket could cause the engine to overheat
     </Q>
-    <A>B. The socket's wiring may be inadequate for the current being drawn by the</A>
+    <A>B. The socket's wiring may be inadequate for the current being drawn by the transceiver</A>
   </item>
   <item>
     <cat>G4E</cat>
@@ -3592,10 +3592,17 @@
     </Q>
     <A>A. A series of DC pulses at twice the frequency of the AC input</A>
   </item>
+  <item>
+    <cat>G7A</cat>
+    <Q>G7A08 
+       Which of the following is an advantage of a switch-mode power supply as compared to a linear power supply?
        A. Faster switching time makes higher output voltage possible
        B. Fewer circuit components are required
        C. High frequency operation allows the use of smaller components
        D. All of these choices are correct
+    </Q>
+    <A>C. High frequency operation allows the use of smaller components</A>
+  </item>
   <item>
     <cat>G7A</cat>
     <Q>G7A09 
@@ -4116,7 +4123,7 @@
   <item>
     <cat>G8B</cat>
     <Q>G8B06 
-       What is the total bandwidth of an FM-phone transmission having a 5 kHz
+       What is the total bandwidth of an FM-phone transmission having a 5 kHz deviation and a 3 kHz modulating frequency?
        A. 3 kHz
        B. 5 kHz
        C. 8 kHz
@@ -4194,12 +4201,12 @@
     <cat>G9A</cat>
     <Q>G9A01 
        Which of the following factors determine the characteristic impedance of a parallel conductor antenna feed line?
-       A. The distance between the centers of the conductors and the radius of the
+       A. The distance between the centers of the conductors and the radius of the conductors
        B. The distance between the centers of the conductors and the length of the line
        C. The radius of the conductors and the frequency of the signal
        D. The frequency of the signal and the length of the line
     </Q>
-    <A>A. The distance between the centers of the conductors and the radius of the</A>
+    <A>A. The distance between the centers of the conductors and the radius of the conductors</A>
   </item>
   <item>
     <cat>G9A</cat>
