@@ -96,4 +96,17 @@ BEGIN {
 	    next
 	}
     }
+
+    if ($0 ~ "^SUBELEMENT") {
+        # Ignore subelement headers
+        next
+    }
+
+    if ($0 ~ "^[ \t]*$") {
+        # Ignore blank line
+        next
+    }
+
+    # The question pool data files have lots of formatting errors in them that we've manually corrected. If you get a fresh copy, this will help you in your quest to make it do something useful:
+    print "unmatched line (possible error in input file) on line " NR ": " $0 > "/dev/stderr"
 }

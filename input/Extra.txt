@@ -1387,8 +1387,8 @@ A. Variability of signal strength with beam heading
 B. Partial cancellation of some frequencies within the received pass band
 C. Sideband inversion within the ionosphere
 D. Degradation of signal strength due to backscatter
-
 ~~
+
 E3C06 (A)
 By how much does the VHF/UHF radio-path horizon distance exceed the geometric horizon?
 A. By approximately 15% of the distance
@@ -1540,13 +1540,10 @@ D. All of these choices are correct
 
 E4A10 (D)
 Which of the following tests establishes that a silicon NPN junction transistor is biased on?
-A. Measure base-to-emitter resistance with an ohmmeter; it should be approximately
-6 to 7 ohms
+A. Measure base-to-emitter resistance with an ohmmeter; it should be approximately 6 to 7 ohms
 B. Measure base-to-emitter resistance with an ohmmeter; it should be approximately 0.6 to 0.7 ohms
-C. Measure base-to-emitter voltage with a voltmeter; it should be approximately 
-6 to 7 volts
-D. Measure base-to-emitter voltage with a voltmeter; it should be approximately
-0.6 to 0.7 volts
+C. Measure base-to-emitter voltage with a voltmeter; it should be approximately 6 to 7 volts
+D. Measure base-to-emitter voltage with a voltmeter; it should be approximately 0.6 to 0.7 volts
 ~~
 
 E4A11 (B)
@@ -4242,7 +4239,7 @@ C. Armstrong and deForest
 D. Negative feedback and balanced feedback
 ~~
 
-E7H07(C)
+E7H07 (C)
 What is a magnetron oscillator?
 A. An oscillator in which the output is fed back to the input by the magnetic field of a transformer
 B. A crystal oscillator in which variable frequency is obtained by placing the crystal in a strong magnetic field
@@ -5312,8 +5309,7 @@ D. The driven element radiation resistance must be higher than the characteristi
 ~~
 
 E9E06 (C)
-What is the equivalent lumped-constant network for a hairpin matching system on a 
-3-element Yagi?
+What is the equivalent lumped-constant network for a hairpin matching system on a 3-element Yagi?
 A. Pi network
 B. Pi-L network
 C. L network
@@ -5790,11 +5786,3 @@ B. Blood clotting from the intense magnetic field
 C. Localized heating of the body from RF exposure in excess of the MPE limits
 D. Ingestion of ozone gas from the cooling system
 ~~
-
-~~end of question pool text~~
-
-NOTE: The graphics required for certain questions in sections E5, E6, E7, and E9 are included on the following pages:
-
-
-      
-~~~ end of question pool ~~~
